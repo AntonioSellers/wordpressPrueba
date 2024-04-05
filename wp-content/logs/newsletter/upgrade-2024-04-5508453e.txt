@@ -1,0 +1,38 @@
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Start upgrade from 0.0.0
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > Backing up options of 0.0.0
+04-04-2024 07:59:53 - INFO  - 8.2.7 - 9,3 MB/128 MB - Antonio@Sellers > End

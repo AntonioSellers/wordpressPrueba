@@ -1,0 +1,392 @@
+# Translation of Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert WebP &amp; AVIF - Development (trunk) in English (UK)
+# This file is distributed under the same license as the Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert WebP &amp; AVIF - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-26 22:05:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert WebP &amp; AVIF - Development (trunk)\n"
+
+#: inc/admin.php:1299
+msgid "View plans"
+msgstr "View plans"
+
+#: inc/admin.php:605
+msgid "Check upgrade plans"
+msgstr "Check upgrade plans"
+
+#: inc/admin.php:1534
+msgid "You are allowed to save maximum 5 images."
+msgstr "You are allowed to save a maximum of 5 images."
+
+#: inc/admin.php:1546
+msgid "Opacity"
+msgstr "Opacity"
+
+#: inc/admin.php:1553
+msgid "North-East"
+msgstr "North-East"
+
+#: optimole-wp.php:58
+msgid "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+msgstr "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+
+#: inc/rest.php:655
+msgid "Watermark image uploaded succesfully ! "
+msgstr "Watermark image uploaded successfully! "
+
+#: inc/rest.php:652
+msgid "Error uploading image. Please try again."
+msgstr "Error uploading image. Please try again."
+
+#: inc/rest.php:373
+msgid "Error creating account."
+msgstr "Error creating account."
+
+#: inc/admin.php:1566
+msgid "A value between 0 and 300 for the scale of the watermark (100 is the original size and 300 is 3x the size) relative to the resulting image size. If set to 0 it will default to the original size."
+msgstr "A value between 0 and 300 for the scale of the watermark (100 is the original size and 300 is 3x the size) relative to the resulting image size. If set to 0 it will default to the original size."
+
+#: inc/admin.php:1565
+msgid "Watermark scale"
+msgstr "Watermark scale"
+
+#: inc/admin.php:1564
+msgid "Scale"
+msgstr "Scale"
+
+#: inc/admin.php:1563
+msgid "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+msgstr "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+
+#: inc/admin.php:1562
+msgid "Watermark offset"
+msgstr "Watermark offset"
+
+#: inc/admin.php:1561
+msgid "Offset Y"
+msgstr "Offset Y"
+
+#: inc/admin.php:1560
+msgid "Offset X"
+msgstr "Offset X"
+
+#: inc/admin.php:1559
+msgid "South-East"
+msgstr "South-East"
+
+#: inc/admin.php:1558
+msgid "South"
+msgstr "South"
+
+#: inc/admin.php:1557
+msgid "South-West"
+msgstr "South-West"
+
+#: inc/admin.php:1556
+msgid "East"
+msgstr "East"
+
+#: inc/admin.php:1555
+msgid "Center"
+msgstr "Centre"
+
+#: inc/admin.php:1554
+msgid "West"
+msgstr "West"
+
+#: inc/admin.php:1552
+msgid "North"
+msgstr "North"
+
+#: inc/admin.php:1551
+msgid "North-West"
+msgstr "North-West"
+
+#: inc/admin.php:1550
+msgid "The place relative to the image where the watermark should be placed."
+msgstr "The place relative to the image where the watermark should be placed."
+
+#: inc/admin.php:1549
+msgid "Watermark position"
+msgstr "Watermark position"
+
+#: inc/admin.php:1548
+msgid "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+msgstr "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+
+#: inc/admin.php:1547
+msgid "Watermark opacity"
+msgstr "Watermark opacity"
+
+#: inc/admin.php:1545
+msgid "The active watermark to use from the list of uploaded watermarks."
+msgstr "The watermark to use from the list of uploaded watermarks."
+
+#: inc/admin.php:1544
+msgid "Active watermark"
+msgstr "Active watermark"
+
+#: inc/admin.php:1543
+msgid "Add new watermark"
+msgstr "Add new watermark"
+
+#: inc/admin.php:1542
+msgid "Upload"
+msgstr "Upload"
+
+#: inc/admin.php:1541
+msgid "Action"
+msgstr "Action"
+
+#: inc/admin.php:1540
+msgid "Type"
+msgstr "Type"
+
+#: inc/admin.php:1539
+msgid "Name"
+msgstr "Name"
+
+#: inc/admin.php:1538
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin.php:1537
+msgid "No images available for watermark. Please upload one."
+msgstr "No images available for the watermark. Please upload one."
+
+#: inc/admin.php:1536
+msgid "Watermarks position settings"
+msgstr "Watermark position settings"
+
+#: inc/admin.php:1535
+msgid "Possible watermarks"
+msgstr "Possible watermarks"
+
+#: inc/admin.php:1533
+msgid "Removing watermark resource ..."
+msgstr "Removing watermark resource ..."
+
+#: inc/admin.php:1268
+msgid ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Optimole relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrain this WordPress feature.You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+msgstr ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Optimole relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrains this WordPress feature.You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+
+#: inc/admin.php:758
+msgid "I will do it later"
+msgstr "I will do it later"
+
+#: inc/admin.php:755
+msgid "Connect to OptiMole"
+msgstr "Connect to OptiMole"
+
+#: inc/admin.php:752
+msgid "Welcome to %1$sOptiMole%2$s, the easiest way to optimize your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+msgstr "Welcome to %1$sOptiMole%2$s, the easiest way to optimise your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+
+#: inc/admin.php:1437
+msgid "Width"
+msgstr "Width"
+
+#: inc/admin.php:1418 inc/admin.php:1567
+msgid "Save changes"
+msgstr "Save changes"
+
+#: inc/admin.php:1393
+msgid "Height"
+msgstr "Height"
+
+#: inc/admin.php:1399
+msgid "Original"
+msgstr "Original"
+
+#: inc/admin.php:1406
+msgid "You dont have any images in your Media Library. Add one and check how the Optimole will perform."
+msgstr "You don't have any images in your Media Library. Add one and check how Optimole will perform."
+
+#: inc/admin.php:1400
+msgid "Optimized"
+msgstr "Optimised"
+
+#: inc/admin.php:1408
+msgid "Option saved."
+msgstr "Option saved."
+
+#: inc/admin.php:1326
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/admin.php:1404
+msgid "Low"
+msgstr "Low"
+
+#: inc/admin.php:1405
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/admin.php:1398
+msgid "High"
+msgstr "High"
+
+#: inc/admin.php:550 inc/admin.php:1018 inc/admin.php:1019 inc/admin.php:1173
+#: inc/admin.php:1276
+msgid "Settings"
+msgstr "Settings"
+
+#: inc/admin.php:1275
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/admin.php:1237
+msgid "In order to get access to free image optimization service you will need an API key from %s."
+msgstr "In order to get access to free image optimisation service you will need an API key from %s."
+
+#: inc/admin.php:1224
+msgid "Error registering account. You can try again %1$shere%2$s "
+msgstr "Error registering account. You can try again %1$shere%2$s "
+
+#: inc/admin.php:1222
+msgid "Register account"
+msgstr "Register account"
+
+#: inc/admin.php:1221
+msgid "I already have an API key."
+msgstr "I already have an API key."
+
+#: inc/admin.php:1218
+msgid "Enter your API key."
+msgstr "Enter your API key."
+
+#: inc/admin.php:1193
+msgid "Image optimization service"
+msgstr "Image optimisation service"
+
+#: inc/admin.php:1192
+msgid "Test Optimole"
+msgstr "Test Optimole"
+
+#: inc/admin.php:1191
+msgid "Privacy"
+msgstr "Privacy"
+
+#: inc/admin.php:1190
+msgid "Terms"
+msgstr "Terms"
+
+#: inc/admin.php:1204
+msgid "Sign-up for API key"
+msgstr "Sign up for an API key"
+
+#: inc/admin.php:1325
+msgid "Show in the WordPress admin bar the available quota from Optimole service."
+msgstr "Show in the WordPress Admin Bar the available quota from Optimole service."
+
+#: inc/admin.php:1215
+msgid "Your email address"
+msgstr "Your e-mail address"
+
+#: inc/admin.php:1573
+msgid "Loading your optimized images..."
+msgstr "Loading your optimised images..."
+
+#. Plugin Name of the plugin
+#: optimole-wp.php
+msgid "Image optimization service by Optimole"
+msgstr "Image optimisation service by Optimole"
+
+#: inc/admin.php:1578
+msgid "🙉 We couldn't do better, this image is already optimized at maximum. "
+msgstr "We couldn't do better, this image is already optimised."
+
+#: inc/admin.php:1580
+msgid "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+msgstr "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+
+#: inc/admin.php:1229
+msgid "Monthly Usage"
+msgstr "Monthly Usage"
+
+#. Description of the plugin
+#: optimole-wp.php
+msgid "Complete handling of your website images."
+msgstr "Complete handling of your website images."
+
+#: inc/admin.php:1581
+msgid "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+msgstr "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+
+#: inc/admin.php:1579
+msgid "😬 Not that much, just <strong>{ratio}</strong> smaller."
+msgstr "😬 Not that much, just <strong>{ratio}</strong> smaller."
+
+#: inc/admin.php:1577
+msgid "optimized images"
+msgstr "optimised images"
+
+#: inc/admin.php:1574
+msgid "Last"
+msgstr "Last"
+
+#: inc/admin.php:1572
+msgid "Optimization"
+msgstr "Optimisation"
+
+#: inc/admin.php:1532 inc/admin.php:1570
+msgid "Image"
+msgstr "Image"
+
+#: inc/admin.php:1337
+msgid "Disabled"
+msgstr "Disabled"
+
+#: inc/admin.php:1368
+msgid "Enabled"
+msgstr "Enabled"
+
+#: inc/admin.php:1397
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/admin.php:1419
+msgid "Show"
+msgstr "Show"
+
+#: inc/admin.php:1205
+msgid "Invalid API Key"
+msgstr "Invalid API Key"
+
+#: inc/admin.php:1203
+msgid "API Key"
+msgstr "API Key"
+
+#: inc/admin.php:1195
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#. Author of the plugin
+#: optimole-wp.php
+msgid "Optimole"
+msgstr "Optimole"
+
+#: inc/api.php:547 inc/api.php:559 inc/lazyload_replacer.php:572
+#: inc/lazyload_replacer.php:585 inc/main.php:236 inc/main.php:246
+#: inc/manager.php:715 inc/manager.php:728 inc/tag_replacer.php:523
+#: inc/tag_replacer.php:536 inc/url_replacer.php:303 inc/url_replacer.php:316
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#. Author URI of the plugin
+#: optimole-wp.php
+msgid "https://optimole.com"
+msgstr "https://optimole.com/"
+
+#: inc/admin.php:1427
+msgid "Admin bar status"
+msgstr "Admin Bar status"

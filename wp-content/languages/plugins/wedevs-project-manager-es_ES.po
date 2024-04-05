@@ -1,0 +1,3836 @@
+# Translation of Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-29 15:00:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Project Manager &#8211; Task, team, and project management plugin featuring kanban board and gantt charts - Stable (latest release)\n"
+
+#: languages/wedevs-project-manager.php:540 views/assets/js/pm.js:36
+msgid "Complete Task(s)"
+msgstr "Tarea/s completa/s"
+
+#: languages/wedevs-project-manager.php:256 views/assets/js/pm.js:36
+msgid "Get Started Now"
+msgstr "Comenzar ahora"
+
+#: languages/wedevs-project-manager.php:255 views/assets/js/pm.js:36
+msgid "Per Year"
+msgstr "Al año"
+
+#: languages/wedevs-project-manager.php:267 views/assets/js/pm.js:20
+msgid "Real-time updates"
+msgstr "Actualizaciones en tiempo real"
+
+#: languages/wedevs-project-manager.php:266 views/assets/js/pm.js:20
+msgid "Advanced filters for reports"
+msgstr "Filtros avanzados para informes"
+
+#: languages/wedevs-project-manager.php:265 views/assets/js/pm.js:20
+msgid "Automatic daily digest emails"
+msgstr "Correos electrónicos de resumen diario automáticos"
+
+#: languages/wedevs-project-manager.php:264 views/assets/js/pm.js:20
+msgid "Frontend projects and discussions"
+msgstr "Vista pública de proyectos y debates"
+
+#: languages/wedevs-project-manager.php:263 views/assets/js/pm.js:20
+msgid "Team category permission"
+msgstr "Permiso de categoría de equipo"
+
+#: languages/wedevs-project-manager.php:262 views/assets/js/pm.js:20
+msgid "Project user permission"
+msgstr "Permiso de usuario del proyecto"
+
+#: languages/wedevs-project-manager.php:261 views/assets/js/pm.js:20
+msgid "Link messages & task lists with files"
+msgstr "Enlazar mensajes y listas de tareas con archivos"
+
+#: languages/wedevs-project-manager.php:260 views/assets/js/pm.js:20
+msgid "Create folders for files"
+msgstr "Crear carpetas para archivos"
+
+#: languages/wedevs-project-manager.php:259 views/assets/js/pm.js:20
+msgid "Upload all files in one place"
+msgstr "Subir todos los archivos en un solo lugar"
+
+#: languages/wedevs-project-manager.php:258 views/assets/js/pm.js:20
+msgid "Set the start & end date of the project"
+msgstr "Establecer la fecha de inicio y fin del proyecto"
+
+#: languages/wedevs-project-manager.php:257 views/assets/js/pm.js:20
+msgid "Built-in private messenger"
+msgstr "Mensajería privada integrada"
+
+#: languages/wedevs-project-manager.php:447 views/assets/js/pm.js:20
+msgid "this email already exists with user name "
+msgstr "este email ya existe con el nombre de usuario "
+
+#: languages/wedevs-project-manager.php:71 views/assets/js/pm.js:28
+msgid ", You can create a new user"
+msgstr ", Puedes crear un nuevo usuario"
+
+#: languages/wedevs-project-manager.php:70 views/assets/js/pm.js:28
+msgid "No user found named "
+msgstr "No se ha encontrado ningún usuario llamado "
+
+#: languages/wedevs-project-manager.php:69 views/assets/js/pm.js:28
+msgid " wait ... "
+msgstr " espera... "
+
+#: languages/wedevs-project-manager.php:68 views/assets/js/pm.js:28
+msgid "Add User"
+msgstr "Añadir usuario"
+
+#: languages/wedevs-project-manager.php:67 views/assets/js/pm.js:28
+msgid "Create New User"
+msgstr "Crear nuevo usuario"
+
+#: src/User/Controllers/User_Controller.php:160
+msgid "You have no permission to create/update user meta."
+msgstr "No tienes permisos para crear/actualizar metadatos de usuario."
+
+#: views/project-switch/project-switch.php:19
+msgid "to dismiss"
+msgstr "para descartar"
+
+#: views/project-switch/project-switch.php:15
+msgid " to select "
+msgstr " para seleccionar "
+
+#: views/project-switch/project-switch.php:11
+msgid " to navigate"
+msgstr " para navegar"
+
+#: languages/wedevs-project-manager.php:645 views/assets/js/pm.js:20
+msgid "Module"
+msgstr "Módulo"
+
+#: languages/wedevs-project-manager.php:642 views/assets/js/pm.js:20
+msgid "Pro Features"
+msgstr "Características Pro"
+
+#: languages/wedevs-project-manager.php:639 views/assets/js/pm.js:20
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: languages/wedevs-project-manager.php:628 views/assets/js/pm.js:20
+msgid "You don't need to rely on a separate file manager. WP Project Manager's Files feature will let you store all your files and see it in one place."
+msgstr "No necesitas depender de un gestor de archivos independiente. La función archivos de WP Project Manager te permitirá almacenar todos tus archivos y verlos en un solo lugar."
+
+#: languages/wedevs-project-manager.php:627 views/assets/js/pm.js:20
+msgid "Manage Files"
+msgstr "Gestionar archivos"
+
+#: languages/wedevs-project-manager.php:626 views/assets/js/pm.js:20
+msgid "In the Milestones tab you will be able to set a specific milestone you want to reach. Set the name, due date, details. You will also see tasks set under each milestone."
+msgstr "En la pestaña Hitos podrás establecer un hito específico que quieras alcanzar. Establece el nombre, la fecha de vencimiento y los detalles. También verás las tareas establecidas bajo cada hito."
+
+#: languages/wedevs-project-manager.php:625 views/assets/js/pm.js:20
+msgid "In your projects you get a separate Task List tab to divide your work. You will be able to set due date for a task, set milestone, categorize and more."
+msgstr "En tus proyectos dispones de una pestaña separada Lista de tareas para dividir tu trabajo. Podrás fijar la fecha de vencimiento de una tarea, establecer hitos, categorizar y mucho más."
+
+#: languages/wedevs-project-manager.php:624 views/assets/js/pm.js:20
+msgid "To-do Lists"
+msgstr "Listas de tareas"
+
+#: languages/wedevs-project-manager.php:623 views/assets/js/pm.js:20
+msgid "There is a built-in discussion panel right inside your projects. Consisting open, group discussion feature. Making team collaboration much more effective."
+msgstr "Hay un panel de discusión integrado dentro de tus proyectos. Consiste en una función de discusión abierta y en grupo. Haciendo que la colaboración en equipo sea mucho más eficaz."
+
+#: languages/wedevs-project-manager.php:622 views/assets/js/pm.js:20
+msgid "Team Discussion"
+msgstr "Debate en equipo"
+
+#: languages/wedevs-project-manager.php:621 views/assets/js/pm.js:20
+msgid "You will also get a complete activity log history from the activities section of your project. All the activity will also be divided by date so it is easier to keep track."
+msgstr "También obtendrás un historial completo del registro de actividades en la sección de actividades de tu proyecto. Además, toda la actividad se dividirá por fechas para que sea más fácil llevar un seguimiento."
+
+#: languages/wedevs-project-manager.php:620 views/assets/js/pm.js:20
+msgid "In the overview section you will get a complete picture of your project. A chart for what has been done in the last 30 days, no of discussion, task lists, milestones and more."
+msgstr "En la sección de visión general obtendrás una imagen completa de tu proyecto. Un gráfico de lo que se ha hecho en los últimos 30 días, sin discusiones, listas de tareas, hitos y mucho más."
+
+#: languages/wedevs-project-manager.php:619 views/assets/js/pm.js:36
+msgid "View All Features"
+msgstr "Ver todas las características"
+
+#: languages/wedevs-project-manager.php:491 views/assets/js/pm.js:36
+msgid "Add an option"
+msgstr "Añadir una opción"
+
+#: languages/wedevs-project-manager.php:385 views/assets/js/pm.js:20
+msgid "Link to Docs"
+msgstr "Enlace a documentación"
+
+#: languages/wedevs-project-manager.php:384 views/assets/js/pm.js:20
+msgid "Create a doc"
+msgstr "Crear un documento"
+
+#: languages/wedevs-project-manager.php:383 views/assets/js/pm.js:20
+msgid "Upload a file"
+msgstr "Subir un archivo"
+
+#: languages/wedevs-project-manager.php:382 views/assets/js/pm.js:20
+msgid "Create a folder"
+msgstr "Crear una carpeta"
+
+#: languages/wedevs-project-manager.php:189 views/assets/js/pm.js:36
+msgid "No categories found."
+msgstr "No se han encontrado categorías."
+
+#: languages/wedevs-project-manager.php:131 views/assets/js/pm.js:36
+msgid "Katty Allen"
+msgstr "Katty Allen"
+
+#: languages/wedevs-project-manager.php:42 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "No date found!"
+msgstr "¡No se ha encontrado ninguna fecha!"
+
+#: src/My_Task/Controllers/MyTask_Controller.php:134
+msgid "Starting date is not valid. Please re-check your request."
+msgstr "La fecha de inicio no es válida. Vuelve a comprobar tu solicitud."
+
+#: languages/wedevs-project-manager.php:653
+msgid "Save Change"
+msgstr "Guardar cambio"
+
+#: languages/wedevs-project-manager.php:652
+msgid "Assignees Users"
+msgstr "Usuarios asignados"
+
+#: languages/wedevs-project-manager.php:651
+msgid "Oops! No product found. Consider changing the search query."
+msgstr "¡Vaya! No se ha encontrado ningún producto. Considera la posibilidad de cambiar la consulta de búsqueda."
+
+#: languages/wedevs-project-manager.php:650
+msgid "Search Product"
+msgstr "Buscar producto"
+
+#: languages/wedevs-project-manager.php:649
+msgid "Order Products"
+msgstr "Ordenar productos"
+
+#: languages/wedevs-project-manager.php:648
+msgid "After Product Order Placement"
+msgstr "Después de realizar el pedido del producto"
+
+#: languages/wedevs-project-manager.php:617 views/assets/js/pm.js:36
+msgid "Available in Pro. Unlock & enjoy:"
+msgstr "Disponible en Pro. Desbloquea y disfruta:"
+
+#: languages/wedevs-project-manager.php:616 views/assets/js/pm.js:36
+msgid "Industry leading 24x7 support"
+msgstr "Soporte 24x7 líder del sector"
+
+#: languages/wedevs-project-manager.php:615 views/assets/js/pm.js:36
+msgid "14 days no questions asked refund policy"
+msgstr "Política de devolución de 14 días sin preguntas"
+
+#: languages/wedevs-project-manager.php:614 views/assets/js/pm.js:36
+msgid "10,000+ successful businesses"
+msgstr "Más de 10.000 empresas con éxito"
+
+#: languages/wedevs-project-manager.php:613 views/assets/js/pm.js:36
+msgid "Built-in Private Messenger"
+msgstr "Mensajería privada integrada"
+
+#: languages/wedevs-project-manager.php:612 views/assets/js/pm.js:36
+msgid "with your team members privately with"
+msgstr "con los miembros de tu equipo en privado con"
+
+#: languages/wedevs-project-manager.php:611 views/assets/js/pm.js:36
+msgid "Collaborate"
+msgstr "Colabora"
+
+#: languages/wedevs-project-manager.php:610 views/assets/js/pm.js:36
+msgid "Real-Time Updates"
+msgstr "Actualizaciones en tiempo real"
+
+#: languages/wedevs-project-manager.php:609 views/assets/js/pm.js:36
+msgid "Daily Digest Mail, and"
+msgstr "resumen diario por correo electrónico y"
+
+#: languages/wedevs-project-manager.php:608 views/assets/js/pm.js:36
+msgid "Advanced Reporting, Automatic"
+msgstr "Informes avanzados,"
+
+#: languages/wedevs-project-manager.php:607 views/assets/js/pm.js:36
+msgid "Get more"
+msgstr "Consigue más"
+
+#: languages/wedevs-project-manager.php:606 views/assets/js/pm.js:36
+msgid "from one place and keeps you hassle-free"
+msgstr "desde un solo lugar y te mantiene libre de problemas"
+
+#: languages/wedevs-project-manager.php:605 views/assets/js/pm.js:36
+msgid "images"
+msgstr "imágenes"
+
+#: languages/wedevs-project-manager.php:604 views/assets/js/pm.js:36
+msgid "and"
+msgstr "y"
+
+#: languages/wedevs-project-manager.php:603 views/assets/js/pm.js:36
+msgid "create files, documents, custom fields,"
+msgstr "crea archivos, documentos, campos personalizados,"
+
+#: languages/wedevs-project-manager.php:602 views/assets/js/pm.js:36
+msgid "or"
+msgstr "o"
+
+#: languages/wedevs-project-manager.php:601 views/assets/js/pm.js:36
+msgid "upload, store"
+msgstr "subir, almacenar"
+
+#: languages/wedevs-project-manager.php:600 views/assets/js/pm.js:36
+msgid "that helps you to"
+msgstr "que te ayuda a"
+
+#: languages/wedevs-project-manager.php:599 views/assets/js/pm.js:36
+msgid "Advanced Files Manager"
+msgstr "Gestor de archivos avanzado"
+
+#: languages/wedevs-project-manager.php:598 views/assets/js/pm.js:36
+msgid "Experience the"
+msgstr "Experimenta la"
+
+#: languages/wedevs-project-manager.php:597 views/assets/js/pm.js:36
+msgid "etc"
+msgstr "etc"
+
+#: languages/wedevs-project-manager.php:596 views/assets/js/pm.js:36
+msgid "Stripe Gateway, Time Tracker, Sub Task, Invoice, Kanban Board, Gantt Chart, WooCommerce Order, BuddyPress"
+msgstr "Pasarela Stripe, Controlador Horario, Subtarea, Factura, Tablero Kanban, Diagrama de Gantt, Pedido WooCommerce, BuddyPress"
+
+#: languages/wedevs-project-manager.php:595 views/assets/js/pm.js:36
+msgid "Give your team & projects additional pace with 10+ premium modules such as -"
+msgstr "Dale a tu equipo y a tus proyectos un ritmo adicional con más de 10 módulos premium como"
+
+#: languages/wedevs-project-manager.php:594 views/assets/js/pm.js:36
+msgid "unlock and take advantage of our premium features 🎉"
+msgstr "desbloquea y aprovecha nuestras funciones premium 🎉"
+
+#: languages/wedevs-project-manager.php:592 views/assets/js/pm.js:36
+msgid "Upgrade to"
+msgstr "Actualiza a"
+
+#: languages/wedevs-project-manager.php:591 views/assets/js/pm.js:36
+msgid "Subtask"
+msgstr "Subtarea"
+
+#: languages/wedevs-project-manager.php:590 views/assets/js/pm.js:36
+msgid "Sub task Type"
+msgstr "Tipo de subtarea"
+
+#: languages/wedevs-project-manager.php:589 views/assets/js/pm.js:36
+msgid "Sub task type"
+msgstr "Tipo de subtarea"
+
+#: languages/wedevs-project-manager.php:588 views/assets/js/pm.js:36
+msgid "Est. Hour"
+msgstr "Horas est."
+
+#: languages/wedevs-project-manager.php:587 views/assets/js/pm.js:36
+msgid "Task type"
+msgstr "Tipo de tarea"
+
+#: languages/wedevs-project-manager.php:586 views/assets/js/pm.js:36
+msgid "Hour"
+msgstr "Hora"
+
+#: languages/wedevs-project-manager.php:585 views/assets/js/pm.js:36
+msgid "Subtask Title"
+msgstr "Título de la subtarea"
+
+#: languages/wedevs-project-manager.php:584 views/assets/js/pm.js:36
+msgid "Completed At"
+msgstr "Completado el"
+
+#: languages/wedevs-project-manager.php:583 views/assets/js/pm.js:36
+msgid "Subtask Types"
+msgstr "Tipos de subtareas"
+
+#: languages/wedevs-project-manager.php:582 views/assets/js/pm.js:36
+msgid "Task Types"
+msgstr "Tipos de tareas"
+
+#: languages/wedevs-project-manager.php:580 views/assets/js/pm.js:36
+msgid "Avg. Task Per-day"
+msgstr "Promedio de tareas al día"
+
+#: languages/wedevs-project-manager.php:579 views/assets/js/pm.js:36
+msgid "Avg. Work Hour Per-day"
+msgstr "Promedio de horas de trabajo al día"
+
+#: languages/wedevs-project-manager.php:578 views/assets/js/pm.js:36
+msgid "Avg. Hour Per-task"
+msgstr "Promedio de horas por tarea"
+
+#: languages/wedevs-project-manager.php:577 views/assets/js/pm.js:36
+msgid "Completed Task Count"
+msgstr "Recuento de tareas completadas"
+
+#: languages/wedevs-project-manager.php:576 views/assets/js/pm.js:36
+msgid "Total Estimation Hours"
+msgstr "Horas totales estimadas"
+
+#: languages/wedevs-project-manager.php:575 views/assets/js/pm.js:36
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: languages/wedevs-project-manager.php:544 views/assets/js/pm.js:36
+msgid "Summary"
+msgstr "Resumen"
+
+#: languages/wedevs-project-manager.php:543 views/assets/js/pm.js:36
+msgid "Unassigned Task"
+msgstr "Tarea no asignada"
+
+#: languages/wedevs-project-manager.php:542 views/assets/js/pm.js:36
+msgid "Task by Milestone"
+msgstr "Tarea por hito"
+
+#: languages/wedevs-project-manager.php:541 views/assets/js/pm.js:36
+msgid "User Activities"
+msgstr "Actividades de los usuarios"
+
+#: languages/wedevs-project-manager.php:539 views/assets/js/pm.js:36
+msgid "View Full Report"
+msgstr "Ver informe completo"
+
+#: languages/wedevs-project-manager.php:538 views/assets/js/pm.js:36
+msgid "Overdue Task(s)"
+msgstr "Tarea/s atrasada/s"
+
+#: languages/wedevs-project-manager.php:503 views/assets/js/pm.js:36
+msgid "Update comment"
+msgstr "Actualizar comentario"
+
+#: languages/wedevs-project-manager.php:500 views/assets/js/pm.js:36
+msgid "More option"
+msgstr "Más opciones"
+
+#: languages/wedevs-project-manager.php:499 views/assets/js/pm.js:36
+msgid "Slack webhook URL"
+msgstr "URL del webhook de Slack"
+
+#: languages/wedevs-project-manager.php:498 views/assets/js/pm.js:36
+msgid "Slack Webhook URL"
+msgstr "URL del webhook de Slack"
+
+#: languages/wedevs-project-manager.php:497 views/assets/js/pm.js:36
+msgid "x"
+msgstr "x"
+
+#: languages/wedevs-project-manager.php:496 views/assets/js/pm.js:20
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: languages/wedevs-project-manager.php:495 views/assets/js/pm.js:20
+msgid "Capabilities"
+msgstr "Capacidades"
+
+#: languages/wedevs-project-manager.php:493 views/assets/js/pm.js:20
+msgid "Option name required"
+msgstr "Se requiere el nombre de la opción"
+
+#: languages/wedevs-project-manager.php:492 views/assets/js/pm.js:20
+msgid "Maximum character limit 40"
+msgstr "Límite máximo de caracteres 40"
+
+#: languages/wedevs-project-manager.php:490 views/assets/js/pm.js:36
+msgid "Add option"
+msgstr "Añadir opción"
+
+#: languages/wedevs-project-manager.php:489 views/assets/js/pm.js:36
+msgid "Options"
+msgstr "Opciones"
+
+#: languages/wedevs-project-manager.php:487 views/assets/js/pm.js:36
+msgid "+ Create label"
+msgstr "+ Crear etiqueta"
+
+#: languages/wedevs-project-manager.php:486 views/assets/js/pm.js:36
+msgid "No invoice found!"
+msgstr "No se han encontrado facturas."
+
+#: languages/wedevs-project-manager.php:485 views/assets/js/pm.js:36
+msgid "Paid"
+msgstr "Pagado"
+
+#: languages/wedevs-project-manager.php:484 views/assets/js/pm.js:36
+msgid "Total"
+msgstr "Total"
+
+#: languages/wedevs-project-manager.php:483 views/assets/js/pm.js:36
+msgid "Discount"
+msgstr "Descuento"
+
+#: languages/wedevs-project-manager.php:482 views/assets/js/pm.js:36
+msgid "due"
+msgstr "vence"
+
+#: languages/wedevs-project-manager.php:481 views/assets/js/pm.js:36
+msgid "Created"
+msgstr "Creado"
+
+#: languages/wedevs-project-manager.php:479 views/assets/js/pm.js:36
+msgid "Save Form"
+msgstr "Guardar formulario"
+
+#: languages/wedevs-project-manager.php:478 views/assets/js/pm.js:36
+msgid "No user found"
+msgstr "No se ha encontrado ningún usuario"
+
+#: languages/wedevs-project-manager.php:477 views/assets/js/pm.js:36
+msgid "Bitbucket Username"
+msgstr "Nombre de usuario de Bitbucket"
+
+#: languages/wedevs-project-manager.php:476 views/assets/js/pm.js:36
+msgid "Github Username"
+msgstr "Nombre de usuario de Github"
+
+#: languages/wedevs-project-manager.php:475 views/assets/js/pm.js:36
+msgid "View documentation"
+msgstr "Ver documentación"
+
+#: languages/wedevs-project-manager.php:474 views/assets/js/pm.js:36
+msgid "to send our JSON payloads"
+msgstr "para enviar nuestras cargas JSON"
+
+#: languages/wedevs-project-manager.php:473 views/assets/js/pm.js:36
+msgid "Webhook URL"
+msgstr "URL del webhook"
+
+#: languages/wedevs-project-manager.php:472 views/assets/js/pm.js:36
+msgid "Github"
+msgstr "Github"
+
+#: languages/wedevs-project-manager.php:471 views/assets/js/pm.js:36
+msgid "No field found!"
+msgstr "No se ha encontrado ningún campo."
+
+#: languages/wedevs-project-manager.php:470 views/assets/js/pm.js:20
+msgid "Custom field updated successfully!"
+msgstr "¡Campo personalizado actualizado correctamente!"
+
+#: languages/wedevs-project-manager.php:469 views/assets/js/pm.js:20
+msgid "Custom field created successfully!"
+msgstr "¡Campo personalizado creado correctamente!"
+
+#: languages/wedevs-project-manager.php:468 views/assets/js/pm.js:20
+msgid "Field options required!"
+msgstr "¡Se requieren opciones de campo!"
+
+#: languages/wedevs-project-manager.php:467 views/assets/js/pm.js:20
+msgid "Field type required!"
+msgstr "¡El tipo de campo es obligatorio!"
+
+#: languages/wedevs-project-manager.php:466 views/assets/js/pm.js:20
+msgid "Field title required!"
+msgstr "¡Se requiere el título del campo!"
+
+#: languages/wedevs-project-manager.php:465 views/assets/js/pm.js:20
+msgid "Custom Field"
+msgstr "Campo personalizado"
+
+#: languages/wedevs-project-manager.php:464 views/assets/js/pm.js:36
+msgid "Add description"
+msgstr "Añadir descripción"
+
+#: languages/wedevs-project-manager.php:463 views/assets/js/pm.js:36
+msgid "URL"
+msgstr "URL"
+
+#: languages/wedevs-project-manager.php:462 views/assets/js/pm.js:36
+msgid "Number"
+msgstr "Número"
+
+#: languages/wedevs-project-manager.php:461 views/assets/js/pm.js:36
+msgid "Text"
+msgstr "Texto"
+
+#: languages/wedevs-project-manager.php:460 views/assets/js/pm.js:36
+msgid "Drop-down"
+msgstr "Desplegable"
+
+#: languages/wedevs-project-manager.php:459 views/assets/js/pm.js:36
+msgid "Field Title"
+msgstr "Título del campo"
+
+#: languages/wedevs-project-manager.php:458 views/assets/js/pm.js:20
+msgid "Label color required!"
+msgstr "¡Color de etiqueta obligatorio!"
+
+#: languages/wedevs-project-manager.php:457 views/assets/js/pm.js:20
+msgid "Label name required!"
+msgstr "¡Nombre de etiqueta obligatorio!"
+
+#: languages/wedevs-project-manager.php:456 views/assets/js/pm.js:36
+msgid "Color"
+msgstr "Color"
+
+#: languages/wedevs-project-manager.php:455 views/assets/js/pm.js:36
+msgid "Label Name"
+msgstr "Nombre de la etiqueta"
+
+#: languages/wedevs-project-manager.php:454 views/assets/js/pm.js:36
+msgid "View Private files or docs"
+msgstr "Ver archivos o documentos privados"
+
+#: languages/wedevs-project-manager.php:453 views/assets/js/pm.js:36
+msgid "Upload or create doc"
+msgstr "Subir o crear doc"
+
+#: languages/wedevs-project-manager.php:452 views/assets/js/pm.js:36
+msgid "Todo"
+msgstr "Pendiente"
+
+#: languages/wedevs-project-manager.php:451 views/assets/js/pm.js:36
+msgid "Todo List"
+msgstr "Lista de tareas"
+
+#: languages/wedevs-project-manager.php:450 views/assets/js/pm.js:36
+msgid "View Private"
+msgstr "Ver privado"
+
+#: languages/wedevs-project-manager.php:449 views/assets/js/pm.js:36
+msgid "Message: "
+msgstr "Mensaje: "
+
+#: languages/wedevs-project-manager.php:448 views/assets/js/pm.js:36
+msgid "Co-worker"
+msgstr "Compañero de trabajo"
+
+#: languages/wedevs-project-manager.php:445 views/assets/js/pm.js:36
+msgid "Kanban board"
+msgstr "Tablero Kanban"
+
+#: languages/wedevs-project-manager.php:443 views/assets/js/pm.js:36
+msgid "In Progress"
+msgstr "En curso"
+
+#: languages/wedevs-project-manager.php:442 views/assets/js/pm.js:36
+msgid "Open"
+msgstr "Abierto"
+
+#: languages/wedevs-project-manager.php:440 views/assets/js/pm.js:36
+msgid "Fullscreen"
+msgstr "Pantalla completa"
+
+#: languages/wedevs-project-manager.php:439 views/assets/js/pm.js:36
+msgid "27, Sun"
+msgstr "27, Dom"
+
+#: languages/wedevs-project-manager.php:438 views/assets/js/pm.js:36
+msgid "26, Sat"
+msgstr "26, Sáb"
+
+#: languages/wedevs-project-manager.php:437 views/assets/js/pm.js:36
+msgid "25, Fri"
+msgstr "25, Vie"
+
+#: languages/wedevs-project-manager.php:436 views/assets/js/pm.js:36
+msgid "24, Thu"
+msgstr "24, Jue"
+
+#: languages/wedevs-project-manager.php:435 views/assets/js/pm.js:36
+msgid "23, Wed"
+msgstr "23, Mié"
+
+#: languages/wedevs-project-manager.php:434 views/assets/js/pm.js:36
+msgid "22, Tue"
+msgstr "22, Mar"
+
+#: languages/wedevs-project-manager.php:433 views/assets/js/pm.js:36
+msgid "21, Mon"
+msgstr "21, Lun"
+
+#: languages/wedevs-project-manager.php:432 views/assets/js/pm.js:36
+msgid "20, Sun"
+msgstr "20, Dom"
+
+#: languages/wedevs-project-manager.php:431 views/assets/js/pm.js:36
+msgid "19, Sat"
+msgstr "19, Sáb"
+
+#: languages/wedevs-project-manager.php:430 views/assets/js/pm.js:36
+msgid "18, Fri"
+msgstr "18, Vie"
+
+#: languages/wedevs-project-manager.php:429 views/assets/js/pm.js:36
+msgid "17, Thu"
+msgstr "17, Jue"
+
+#: languages/wedevs-project-manager.php:428 views/assets/js/pm.js:36
+msgid "16, Wed"
+msgstr "16, Mié"
+
+#: languages/wedevs-project-manager.php:427 views/assets/js/pm.js:36
+msgid "15, Tue"
+msgstr "15, Mar"
+
+#: languages/wedevs-project-manager.php:426 views/assets/js/pm.js:36
+msgid "November, 2022"
+msgstr "Noviembre 2022"
+
+#: languages/wedevs-project-manager.php:425 views/assets/js/pm.js:36
+msgid "List"
+msgstr "Lista"
+
+#: languages/wedevs-project-manager.php:423 views/assets/js/pm.js:36
+msgid "2022-11-17"
+msgstr "2022-11-17"
+
+#: languages/wedevs-project-manager.php:421 views/assets/js/pm.js:36
+msgid "Group"
+msgstr "Grupo"
+
+#: languages/wedevs-project-manager.php:420 views/assets/js/pm.js:36
+msgid "Start time"
+msgstr "Hora de inicio"
+
+#: languages/wedevs-project-manager.php:363 views/assets/js/pm.js:36
+msgid "Project recursion successfully created"
+msgstr "Recursividad de proyecto creada correctamente"
+
+#: languages/wedevs-project-manager.php:362 views/assets/js/pm.js:36
+msgid "Project recursion successfully updated"
+msgstr "Recursividad de proyecto creada con éxito actualizada correctamente"
+
+#: languages/wedevs-project-manager.php:361 views/assets/js/pm.js:36
+msgid "Oct 25 2022"
+msgstr "25 oct 2022"
+
+#: languages/wedevs-project-manager.php:360 views/assets/js/pm.js:36
+msgid "2022-11-03 07:48:51"
+msgstr "2022-11-03 07:48:51"
+
+#: languages/wedevs-project-manager.php:359 views/assets/js/pm.js:36
+msgid "Profile badge successfully created"
+msgstr "Insignia de perfil creada correctamente"
+
+#: languages/wedevs-project-manager.php:358 views/assets/js/pm.js:36
+msgid "has created a discussion board titled as"
+msgstr "ha creado un foro de debate titulado"
+
+#: languages/wedevs-project-manager.php:357 views/assets/js/pm.js:36
+msgid "create"
+msgstr "crear"
+
+#: languages/wedevs-project-manager.php:356 views/assets/js/pm.js:36
+msgid "2022-11-03 07:49:10"
+msgstr "2022-11-03 07:49:10"
+
+#: languages/wedevs-project-manager.php:355 views/assets/js/pm.js:36
+msgid "Profile badge successfully updated"
+msgstr "Insignia de perfil actualizada correctamente"
+
+#: languages/wedevs-project-manager.php:354 views/assets/js/pm.js:36
+msgid "has updated the description of a discussion board,"
+msgstr "ha actualizado la descripción de un foro de debate,"
+
+#: languages/wedevs-project-manager.php:353 views/assets/js/pm.js:36
+msgid "update"
+msgstr "actualizar"
+
+#: languages/wedevs-project-manager.php:352 views/assets/js/pm.js:36
+msgid "Oct 24 2022"
+msgstr "24 oct 2022"
+
+#: languages/wedevs-project-manager.php:351 views/assets/js/pm.js:36
+msgid "+ Add custom time"
+msgstr "+ Añadir hora personalizada"
+
+#: languages/wedevs-project-manager.php:350 views/assets/js/pm.js:36
+msgid "Track Time"
+msgstr "Seguir tiempo"
+
+#: languages/wedevs-project-manager.php:349 views/assets/js/pm.js:36
+msgid "Add Recurring"
+msgstr "Añadir recurrente"
+
+#: languages/wedevs-project-manager.php:348 views/assets/js/pm.js:36
+msgid "Recurring"
+msgstr "Recurrente"
+
+#: languages/wedevs-project-manager.php:347 views/assets/js/pm.js:36
+msgid "Add Label"
+msgstr "Añadir etiqueta"
+
+#: languages/wedevs-project-manager.php:346 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Label"
+msgstr "Etiqueta"
+
+#: languages/wedevs-project-manager.php:345 views/assets/js/pm.js:36
+msgid "00 Minute"
+msgstr "00 Minuto"
+
+#: languages/wedevs-project-manager.php:344 views/assets/js/pm.js:36
+msgid "00 Hour"
+msgstr "00 Hora"
+
+#: languages/wedevs-project-manager.php:343 views/assets/js/pm.js:36
+msgid "according subtasks"
+msgstr "según las subtareas"
+
+#: languages/wedevs-project-manager.php:342 views/assets/js/pm.js:36
+msgid "Estimation"
+msgstr "Estimación"
+
+#: languages/wedevs-project-manager.php:341 views/assets/js/pm.js:36
+msgid "Content planing"
+msgstr "Planificación de contenido"
+
+#: languages/wedevs-project-manager.php:340 views/assets/js/pm.js:36
+msgid "Pro"
+msgstr "Pro"
+
+#: languages/wedevs-project-manager.php:339 views/assets/js/pm.js:36
+msgid "Subtasks"
+msgstr "Subtareas"
+
+#: languages/wedevs-project-manager.php:338 views/assets/js/pm.js:36
+msgid "Enable Daily Digest"
+msgstr "Activar el resumen diario"
+
+#: languages/wedevs-project-manager.php:337 views/assets/js/pm.js:36
+msgid "Daily Digest"
+msgstr "Resumen diario"
+
+#: languages/wedevs-project-manager.php:336 views/assets/js/pm.js:36
+msgid "Upload"
+msgstr "Subir"
+
+#: languages/wedevs-project-manager.php:335 views/assets/js/pm.js:36
+msgid "Logo"
+msgstr "Logo"
+
+#: languages/wedevs-project-manager.php:334 views/assets/js/pm.js:36
+msgid "Enable task start date field"
+msgstr "Habilitar el campo de fecha de inicio de la tarea"
+
+#: languages/wedevs-project-manager.php:333 views/assets/js/pm.js:36
+msgid "Task start date"
+msgstr "Fecha de inicio de la tarea"
+
+#: languages/wedevs-project-manager.php:332 views/assets/js/pm.js:36
+msgid "Front-end"
+msgstr "Vista pública"
+
+#: languages/wedevs-project-manager.php:331 views/assets/js/pm.js:36
+msgid "Page Settings"
+msgstr "Ajustes de página"
+
+#: languages/wedevs-project-manager.php:330 views/assets/js/pm.js:36
+msgid "Pages"
+msgstr "Páginas"
+
+#: languages/wedevs-project-manager.php:329 views/assets/js/pm.js:36
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: languages/wedevs-project-manager.php:328 views/assets/js/pm.js:36
+msgid "Country"
+msgstr "País"
+
+#: languages/wedevs-project-manager.php:327 views/assets/js/pm.js:36
+msgid "Zip/Postal Code"
+msgstr "Código postal"
+
+#: languages/wedevs-project-manager.php:326 views/assets/js/pm.js:36
+msgid "State/Province"
+msgstr "Provincia"
+
+#: languages/wedevs-project-manager.php:325 views/assets/js/pm.js:36
+msgid "City"
+msgstr "Ciudad"
+
+#: languages/wedevs-project-manager.php:324 views/assets/js/pm.js:36
+msgid "Address Line 2"
+msgstr "Dirección, línea 2"
+
+#: languages/wedevs-project-manager.php:323 views/assets/js/pm.js:36
+msgid "Address Line 1"
+msgstr "Dirección, línea 1"
+
+#: languages/wedevs-project-manager.php:322 views/assets/js/pm.js:36
+msgid "Organization"
+msgstr "Organización"
+
+#: languages/wedevs-project-manager.php:321 views/assets/js/pm.js:36
+msgid "Pay with your credit card"
+msgstr "Paga con tu tarjeta de crédito"
+
+#: languages/wedevs-project-manager.php:320 views/assets/js/pm.js:36
+msgid "PayPal Instruction"
+msgstr "Instrucciones de PayPal"
+
+#: languages/wedevs-project-manager.php:319 views/assets/js/pm.js:36
+msgid "When sandbox mode is active, all payment gateway will be used in demo mode"
+msgstr "Cuando el modo sandbox está activo, todas las pasarelas de pago se utilizarán en modo demo"
+
+#: languages/wedevs-project-manager.php:318 views/assets/js/pm.js:36
+msgid "Enable demo/sandbox mode forPayPal"
+msgstr "Activar el modo demo/sandbox paraPayPal"
+
+#: languages/wedevs-project-manager.php:317 views/assets/js/pm.js:36
+msgid "PayPal email"
+msgstr "Correo electrónico de PayPal"
+
+#: languages/wedevs-project-manager.php:316 views/assets/js/pm.js:36
+msgid "Stripe"
+msgstr "Stripe"
+
+#: languages/wedevs-project-manager.php:315 views/assets/js/pm.js:36
+msgid "Paypal"
+msgstr "PayPal"
+
+#: languages/wedevs-project-manager.php:314 views/assets/js/pm.js:36
+msgid "Payment Gateway"
+msgstr "Pasarela de pago"
+
+#: languages/wedevs-project-manager.php:313 views/assets/js/pm.js:36
+msgid "US Dollar"
+msgstr "Dólar estadounidense"
+
+#: languages/wedevs-project-manager.php:312 views/assets/js/pm.js:36
+msgid "Currency"
+msgstr "Moneda"
+
+#: languages/wedevs-project-manager.php:311 views/assets/js/pm.js:36
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: languages/wedevs-project-manager.php:310 views/assets/js/pm.js:36
+msgid "Invoices"
+msgstr "Facturas"
+
+#: languages/wedevs-project-manager.php:309 views/assets/js/pm.js:20
+msgid "Project Invoice"
+msgstr "Factura del proyecto"
+
+#: languages/wedevs-project-manager.php:308 views/assets/js/pm.js:20
+msgid "Get payment with stripe account."
+msgstr "Obtener pago con cuenta de Stripe."
+
+#: languages/wedevs-project-manager.php:307 views/assets/js/pm.js:20
+msgid "Invoice stripe payment gateway"
+msgstr "Facturar mediante pasarela de pago Stripe"
+
+#: languages/wedevs-project-manager.php:306 views/assets/js/pm.js:20
+msgid "Track time for each of your project tasks for increasing overall team productivity."
+msgstr "Controla el tiempo de cada una de las tareas de tu proyecto para aumentar la productividad general del equipo."
+
+#: languages/wedevs-project-manager.php:305 views/assets/js/pm.js:20
+msgid "Manage your projects group wise directly from the frontend using this premium integration."
+msgstr "Gestiona tus proyectos en grupo directamente desde el frontend utilizando esta integración premium."
+
+#: languages/wedevs-project-manager.php:304 views/assets/js/pm.js:20
+msgid "BuddyPress Integration"
+msgstr "Integración con BuddyPress."
+
+#: languages/wedevs-project-manager.php:303 views/assets/js/pm.js:20
+msgid "Create detailed Gantt charts for your projects and become a professional project manager."
+msgstr "Crea detallados diagramas de Gantt para tus proyectos y conviértete en un gestor de proyectos profesional."
+
+#: languages/wedevs-project-manager.php:302 views/assets/js/pm.js:20
+msgid "Repeatedly creates tasks if you set recurrence."
+msgstr "Crea tareas repetidamente si estableces la recurrencia."
+
+#: languages/wedevs-project-manager.php:301 views/assets/js/pm.js:20
+msgid "Create projects instantly for each of the orders placed on your WooCommerce store."
+msgstr "Crea proyectos al instante para cada uno de los pedidos realizados en tu tienda WooCommerce."
+
+#: languages/wedevs-project-manager.php:300 views/assets/js/pm.js:20
+msgid "Generate invoice for your projects anytime; print, download and send emails to your client."
+msgstr "Genera facturas para tus proyectos en cualquier momento; imprímelas, descárgalas y envíalas por correo electrónico a tu cliente."
+
+#: languages/wedevs-project-manager.php:299 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: languages/wedevs-project-manager.php:298 views/assets/js/pm.js:20
+msgid "Break down your to-dos into smaller tasks for better management and project tracking."
+msgstr "Divide tus tareas pendientes en tareas más pequeñas para una mejor gestión y seguimiento del proyecto."
+
+#: languages/wedevs-project-manager.php:297 views/assets/js/pm.js:20
+msgid "Turn your projects into Trello like boards and organize them using drag and drop feature."
+msgstr "Convierte tus proyectos en tableros similares a Trello y organízalos mediante la función de arrastrar y soltar."
+
+#: languages/wedevs-project-manager.php:296 views/assets/js/pm.js:36
+msgid "Private"
+msgstr "Privado"
+
+#: languages/wedevs-project-manager.php:183 views/assets/js/pm.js:36
+msgid "Make Final Presentation"
+msgstr "Haz la presentación final"
+
+#: languages/wedevs-project-manager.php:182 views/assets/js/pm.js:36
+msgid "Handle Bitcom Deals"
+msgstr "Maneja ofertas Bitcom"
+
+#: languages/wedevs-project-manager.php:181 views/assets/js/pm.js:36
+msgid "Create Developer Assignments"
+msgstr "Crear asignaciones de desarrollador"
+
+#: languages/wedevs-project-manager.php:180 views/assets/js/pm.js:36
+msgid "29"
+msgstr "29"
+
+#: languages/wedevs-project-manager.php:179 views/assets/js/pm.js:36
+msgid "28"
+msgstr "28"
+
+#: languages/wedevs-project-manager.php:178 views/assets/js/pm.js:36
+msgid "27"
+msgstr "27"
+
+#: languages/wedevs-project-manager.php:177 views/assets/js/pm.js:36
+msgid "26"
+msgstr "26"
+
+#: languages/wedevs-project-manager.php:176 views/assets/js/pm.js:36
+msgid "25"
+msgstr "25"
+
+#: languages/wedevs-project-manager.php:175 views/assets/js/pm.js:36
+msgid "24"
+msgstr "24"
+
+#: languages/wedevs-project-manager.php:174 views/assets/js/pm.js:36
+msgid "23"
+msgstr "23"
+
+#: languages/wedevs-project-manager.php:173 views/assets/js/pm.js:36
+msgid "22"
+msgstr "22"
+
+#: languages/wedevs-project-manager.php:172 views/assets/js/pm.js:36
+msgid "21"
+msgstr "21"
+
+#: languages/wedevs-project-manager.php:171 views/assets/js/pm.js:36
+msgid "20"
+msgstr "20"
+
+#: languages/wedevs-project-manager.php:170 views/assets/js/pm.js:36
+msgid "Check recurring validations"
+msgstr "Comprobar validaciones recurrentes"
+
+#: languages/wedevs-project-manager.php:169 views/assets/js/pm.js:36
+msgid "19"
+msgstr "19"
+
+#: languages/wedevs-project-manager.php:168 views/assets/js/pm.js:36
+msgid "18"
+msgstr "18"
+
+#: languages/wedevs-project-manager.php:167 views/assets/js/pm.js:36
+msgid "17"
+msgstr "17"
+
+#: languages/wedevs-project-manager.php:166 views/assets/js/pm.js:36
+msgid "16"
+msgstr "16"
+
+#: languages/wedevs-project-manager.php:165 views/assets/js/pm.js:36
+msgid "15"
+msgstr "15"
+
+#: languages/wedevs-project-manager.php:164 views/assets/js/pm.js:36
+msgid "14"
+msgstr "14"
+
+#: languages/wedevs-project-manager.php:163 views/assets/js/pm.js:36
+msgid "13"
+msgstr "13"
+
+#: languages/wedevs-project-manager.php:162 views/assets/js/pm.js:36
+msgid "12"
+msgstr "12"
+
+#: languages/wedevs-project-manager.php:161 views/assets/js/pm.js:36
+msgid "11"
+msgstr "11"
+
+#: languages/wedevs-project-manager.php:160 views/assets/js/pm.js:36
+msgid "10"
+msgstr "10"
+
+#: languages/wedevs-project-manager.php:159 views/assets/js/pm.js:36
+msgid "9"
+msgstr "9"
+
+#: languages/wedevs-project-manager.php:158 views/assets/js/pm.js:36
+msgid "8"
+msgstr "8"
+
+#: languages/wedevs-project-manager.php:157 views/assets/js/pm.js:36
+msgid "7"
+msgstr "7"
+
+#: languages/wedevs-project-manager.php:156 views/assets/js/pm.js:36
+msgid "6"
+msgstr "6"
+
+#: languages/wedevs-project-manager.php:155 views/assets/js/pm.js:36
+msgid "5"
+msgstr "5"
+
+#: languages/wedevs-project-manager.php:154 views/assets/js/pm.js:36
+msgid "4"
+msgstr "4"
+
+#: languages/wedevs-project-manager.php:153 views/assets/js/pm.js:36
+msgid "3"
+msgstr "3"
+
+#: languages/wedevs-project-manager.php:152 views/assets/js/pm.js:36
+msgid "2"
+msgstr "2"
+
+#: languages/wedevs-project-manager.php:151 views/assets/js/pm.js:36
+msgid "1"
+msgstr "1"
+
+#: languages/wedevs-project-manager.php:150 views/assets/js/pm.js:36
+msgid "31"
+msgstr "31"
+
+#: languages/wedevs-project-manager.php:149 views/assets/js/pm.js:36
+msgid "30"
+msgstr "30"
+
+#: languages/wedevs-project-manager.php:148 views/assets/js/pm.js:36
+msgid "Sat"
+msgstr "Sáb"
+
+#: languages/wedevs-project-manager.php:147 views/assets/js/pm.js:36
+msgid "Fri"
+msgstr "Vie"
+
+#: languages/wedevs-project-manager.php:146 views/assets/js/pm.js:36
+msgid "Thu"
+msgstr "Jue"
+
+#: languages/wedevs-project-manager.php:145 views/assets/js/pm.js:36
+msgid "Wed"
+msgstr "Mié"
+
+#: languages/wedevs-project-manager.php:144 views/assets/js/pm.js:36
+msgid "Tue"
+msgstr "Mar"
+
+#: languages/wedevs-project-manager.php:143 views/assets/js/pm.js:36
+msgid "Mon"
+msgstr "Lun"
+
+#: languages/wedevs-project-manager.php:142 views/assets/js/pm.js:36
+msgid "Sun"
+msgstr "Dom"
+
+#: languages/wedevs-project-manager.php:141 views/assets/js/pm.js:36
+msgid "November 2022"
+msgstr "Noviembre 2022"
+
+#: languages/wedevs-project-manager.php:140 views/assets/js/pm.js:36
+msgid "day"
+msgstr "dia"
+
+#: languages/wedevs-project-manager.php:139 views/assets/js/pm.js:36
+msgid "week"
+msgstr "semana"
+
+#: languages/wedevs-project-manager.php:138 views/assets/js/pm.js:36
+msgid "month"
+msgstr "mes"
+
+#: languages/wedevs-project-manager.php:137 views/assets/js/pm.js:36
+msgid "User view"
+msgstr "Vista de usuario"
+
+#: languages/wedevs-project-manager.php:136 views/assets/js/pm.js:36
+msgid "today"
+msgstr "hoy"
+
+#: languages/wedevs-project-manager.php:135 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Milestone"
+msgstr "Hito"
+
+#: languages/wedevs-project-manager.php:133 views/assets/js/pm.js:36
+msgid "Complete Task"
+msgstr "Tarea completa"
+
+#: languages/wedevs-project-manager.php:132 views/assets/js/pm.js:36
+msgid "Incomplete Task"
+msgstr "Tarea incompleta"
+
+#: languages/wedevs-project-manager.php:130 views/assets/js/pm.js:36
+msgid "Alexander"
+msgstr "Alexander"
+
+#: languages/wedevs-project-manager.php:129 views/assets/js/pm.js:36
+msgid "No elements found. Consider changing the search query."
+msgstr "No se han encontrado elementos. Considera la posibilidad de cambiar la consulta de búsqueda."
+
+#: languages/wedevs-project-manager.php:128 views/assets/js/pm.js:36
+msgid "Woo Project Testing"
+msgstr "Woo Project Testing"
+
+#: languages/wedevs-project-manager.php:127 views/assets/js/pm.js:36
+msgid "Recurring Test Project"
+msgstr "Proyecto de prueba recurrente"
+
+#: languages/wedevs-project-manager.php:4 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Upgrade to PRO "
+msgstr "Mejora a PRO "
+
+#: core/Pro/Menu.php:48
+msgid "Modules"
+msgstr "Módulos"
+
+#: core/Pro/Menu.php:47 languages/wedevs-project-manager.php:573
+#: views/assets/js/pm.js:36
+msgid "Reports"
+msgstr "Informes"
+
+#: core/Promotions/Offers.php:55 core/Promotions/Offers.php:58
+#: core/Promotions/Offers.php:134
+msgid "%s"
+msgstr "%s"
+
+#: core/Promotions/Offers.php:52
+msgid "<strong>%s</strong>"
+msgstr "<strong>%s</strong>"
+
+#. translators: %1s: project title, %2s: project updated by name
+#: views/emails/html/update-project.php:78
+msgid "The project \"%1$s\" has been updated by %2$s"
+msgstr "El proyecto «%1$s» ha sido actualizado por %2$s"
+
+#: views/emails/html/new-task.php:7
+msgid "Your Message Subject or Title"
+msgstr "El asunto o título de tu mensaje"
+
+#: languages/wedevs-project-manager.php:536
+msgid "Secret"
+msgstr "Clave secreta"
+
+#: languages/wedevs-project-manager.php:534 views/assets/js/pm.js:36
+msgid "App ID"
+msgstr "ID de la aplicación"
+
+#: languages/wedevs-project-manager.php:516 views/assets/js/pm.js:20
+msgid "Task title required!"
+msgstr "¡El título de la tarea es obligatorio!"
+
+#: src/Task/Validators/Create_Task.php:12
+msgid "Project ID shoud be numeric."
+msgstr "El ID del proyecto debe ser numérico."
+
+#: languages/wedevs-project-manager.php:232 views/assets/js/pm.js:36
+msgid "No project found!"
+msgstr "¡No se han encontrado proyectos!"
+
+#: languages/wedevs-project-manager.php:223
+#: views/emails/html/new-comment.php:76 views/emails/html/new-message.php:69
+#: views/emails/html/new-project.php:57 views/assets/js/pm.js:20
+msgid "Created at"
+msgstr "Creado el"
+
+#: languages/wedevs-project-manager.php:115 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "No task lists found."
+msgstr "No se encontró ninguna lista de tareas."
+
+#: core/WP/Frontend.php:187
+msgid "Could you tell us a bit more?"
+msgstr "¿Podrías contarnos un poco más?"
+
+#: core/WP/Frontend.php:186
+msgid "No proper documentation"
+msgstr "No hay documentación adecuada"
+
+#: core/WP/Frontend.php:180
+msgid "Please tell us more about the error. We'll reach you with the possible solution."
+msgstr "Por favor, cuéntenos más sobre el error. Te contactaremos para darte la posible solución."
+
+#: core/WP/Frontend.php:179
+msgid "Found an Error"
+msgstr "He encontrado un error"
+
+#: core/WP/Frontend.php:173
+msgid "Are you facing any problem?"
+msgstr "¿Tienes algún problema?"
+
+#: core/WP/Frontend.php:172
+msgid "Temporary deactivation"
+msgstr "Desactivación temporal"
+
+#: languages/wedevs-project-manager.php:581 views/assets/js/pm.js:36
+msgid "All Projects"
+msgstr "Todos los proyectos"
+
+#: src/Task/Controllers/Task_Controller.php:1328
+msgid "Copy "
+msgstr "Copiar "
+
+#: src/Task/Helper/Task.php:102
+msgid "Project Name"
+msgstr "Nombre del proyecto"
+
+#: src/Project/Controllers/Project_Controller.php:409
+msgid "The project has been removed from favorite"
+msgstr "El proyecto ha sido eliminado de tu lista de favoritos"
+
+#: src/Pusher/Libs/action.php:453
+msgid "updated discussion on a"
+msgstr "ha actualizado la discusión en"
+
+#: src/Pusher/Libs/action.php:432
+msgid "messsage"
+msgstr "mensaje"
+
+#: src/Pusher/Libs/action.php:432
+msgid "You've got a new"
+msgstr "Tienes un nuevo"
+
+#: src/Pusher/Libs/action.php:408
+msgid "started a new discussion on"
+msgstr "iniciado una nueva discusión en"
+
+#: src/Pusher/Libs/action.php:351
+msgid "updated his comment on a"
+msgstr "ha actualizado su comentario en"
+
+#: src/Pusher/Libs/action.php:325
+msgid "updated comment on a"
+msgstr "ha actualizado un comentario en"
+
+#: src/Pusher/Libs/action.php:245 src/Pusher/Libs/action.php:253
+msgid "commented on a"
+msgstr "ha comentado en"
+
+#: src/Pusher/Libs/action.php:165 src/Pusher/Libs/action.php:166
+#: src/Pusher/Libs/action.php:168 src/Pusher/Libs/action.php:169
+#: src/Pusher/Libs/action.php:476
+msgid "has been updated"
+msgstr "ha sido actualizado(a)"
+
+#: src/Pusher/Libs/action.php:160
+msgid "description"
+msgstr "descripción"
+
+#: src/Pusher/Libs/action.php:158
+msgid "title"
+msgstr "título"
+
+#: src/Pusher/Libs/action.php:97 src/Pusher/Libs/action.php:98
+msgid "has been re-opened"
+msgstr "se ha vuelto a abrir"
+
+#: src/Pusher/Libs/action.php:92 src/Pusher/Libs/action.php:93
+msgid "has been completed"
+msgstr "ha sido completada"
+
+#: src/Pusher/Libs/action.php:51
+msgid "You've assigned in"
+msgstr "Has sido asignado(a) en"
+
+#: src/Pusher/Libs/action.php:50
+msgid "You've been assigned a new"
+msgstr "Se te ha asignado una nueva"
+
+#: core/Notifications/Emails/New_Project_Notification.php:30
+msgid "[%s] New Project Created: %s"
+msgstr "[%s] Nuevo proyecto creado: %s"
+
+#: core/User_Profile/Profile_Update.php:89
+msgid "— No capability for this user —"
+msgstr "- No hay capacidades para este usuario -"
+
+#: core/User_Profile/Profile_Update.php:83
+msgid "Capability"
+msgstr "Capacidad"
+
+#: languages/wedevs-project-manager.php:422 views/assets/js/pm.js:36
+msgid "Action"
+msgstr "Acción"
+
+#: languages/wedevs-project-manager.php:571 views/assets/js/pm.js:36
+msgid "+ Create New Task Type"
+msgstr "+ Crear un nuevo tipo de tarea"
+
+#: languages/wedevs-project-manager.php:569 views/assets/js/pm.js:20
+msgid "Type name required!"
+msgstr "¡El nombre del tipo es obligatorio!"
+
+#: languages/wedevs-project-manager.php:568 views/assets/js/pm.js:36
+msgid "Type Name"
+msgstr "Nombre del tipo"
+
+#: languages/wedevs-project-manager.php:537 views/assets/js/pm.js:36
+msgid "Cluster"
+msgstr "Grupo"
+
+#: languages/wedevs-project-manager.php:570 views/assets/js/pm.js:36
+msgid "secret"
+msgstr "Clave secreta"
+
+#: languages/wedevs-project-manager.php:535 views/assets/js/pm.js:36
+msgid "App Key"
+msgstr "Clave de la aplicación"
+
+#: languages/wedevs-project-manager.php:533 views/assets/js/pm.js:36
+msgid "Pusher Settings"
+msgstr "Ajustes de Pusher"
+
+#: languages/wedevs-project-manager.php:532
+#: languages/wedevs-project-manager.php:567 views/assets/js/pm.js:36
+msgid "Pusher"
+msgstr "Pusher"
+
+#: languages/wedevs-project-manager.php:526
+msgid "Mark as public"
+msgstr "Marcar como púbico"
+
+#: languages/wedevs-project-manager.php:525
+msgid "Mark as private"
+msgstr "Marcar como privado"
+
+#: languages/wedevs-project-manager.php:515 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1 views/assets/js/pm.js:20
+msgid "Maxmim character limit 200"
+msgstr "Límite máximo de caracteres: 200"
+
+#: languages/wedevs-project-manager.php:508
+msgid "characters remaining"
+msgstr "caracteres restantes"
+
+#: languages/wedevs-project-manager.php:506 views/assets/js/pm.js:36
+msgid "Task Title"
+msgstr "Título de la tarea"
+
+#: languages/wedevs-project-manager.php:417 views/assets/js/pm.js:20
+msgid "Milestone title required!"
+msgstr "¡El título del hito!"
+
+#: languages/wedevs-project-manager.php:395 views/assets/js/pm.js:36
+msgid "- All Categories -"
+msgstr "- Todas las categorías -"
+
+#: languages/wedevs-project-manager.php:249 views/assets/js/pm.js:20
+msgid "Due date should be less than today"
+msgstr "La fecha de vencimiento debe ser menor a hoy"
+
+#: languages/wedevs-project-manager.php:248 views/assets/js/pm.js:20
+msgid "Start date should be less than today"
+msgstr "La fecha de inicio debe ser menor a hoy"
+
+#: languages/wedevs-project-manager.php:247 views/assets/js/pm.js:20
+msgid "Start date and due date should be less than today"
+msgstr "La fecha de inicio y la fecha de vencimiento deben ser inferiores a hoy"
+
+#: languages/wedevs-project-manager.php:246 views/assets/js/pm.js:20
+msgid "Due date should be greater than today"
+msgstr "La fecha de vencimiento debe ser mayor a hoy"
+
+#: languages/wedevs-project-manager.php:245 views/assets/js/pm.js:20
+msgid "Start date should be greater than or equal today"
+msgstr "La fecha de inicio debe ser mayor o igual a hoy"
+
+#: languages/wedevs-project-manager.php:244 views/assets/js/pm.js:20
+msgid "Start date and due date should be greater than or equal today"
+msgstr "La fecha de inicio y la fecha de vencimiento deben ser mayores o iguales a hoy"
+
+#: languages/wedevs-project-manager.php:242 views/assets/js/pm.js:36
+msgid "My tasks"
+msgstr "Mis tareas"
+
+#: languages/wedevs-project-manager.php:241 views/assets/js/pm.js:20
+msgid "Due date"
+msgstr "Vencimiento"
+
+#: languages/wedevs-project-manager.php:240 views/assets/js/pm.js:20
+msgid "Start at - Due date"
+msgstr "Inicia el - Fecha de vencimiento"
+
+#: languages/wedevs-project-manager.php:236 views/assets/js/pm.js:36
+msgid "Activity Filter"
+msgstr "Filtro de actividad"
+
+#: languages/wedevs-project-manager.php:235 views/assets/js/pm.js:36
+msgid "My Task Overview"
+msgstr "Resumen de mi tarea"
+
+#: languages/wedevs-project-manager.php:234 views/assets/js/pm.js:36
+msgid "Overdue"
+msgstr "Vencidos"
+
+#: languages/wedevs-project-manager.php:227 views/assets/js/pm.js:36
+msgid "Assigned Task"
+msgstr "Tarea asignada"
+
+#: languages/wedevs-project-manager.php:225 views/assets/js/pm.js:36
+msgid "activity"
+msgstr "actividad"
+
+#: languages/wedevs-project-manager.php:224 views/assets/js/pm.js:20
+msgid "Date Between"
+msgstr "Fecha entre"
+
+#: languages/wedevs-project-manager.php:222 views/assets/js/pm.js:36
+msgid "No task found!"
+msgstr "¡No se han encontrado tareas!"
+
+#: languages/wedevs-project-manager.php:221 views/assets/js/pm.js:36
+msgid "Completed at"
+msgstr "Completado el"
+
+#: languages/wedevs-project-manager.php:217 views/assets/js/pm.js:36
+msgid "No activities found!"
+msgstr "¡No se han encontrado actividades!"
+
+#: languages/wedevs-project-manager.php:214 views/assets/js/pm.js:20
+msgid "Choose task type"
+msgstr "Elige el tipo de tarea"
+
+#: languages/wedevs-project-manager.php:210 views/assets/js/pm.js:36
+msgid "More"
+msgstr "Más"
+
+#: languages/wedevs-project-manager.php:209 views/assets/js/pm.js:20
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: languages/wedevs-project-manager.php:202 views/assets/js/pm.js:20
+msgid "Select a project"
+msgstr "Selecciona un proyecto"
+
+#: languages/wedevs-project-manager.php:197
+msgid "Menu 2"
+msgstr "Menú 2"
+
+#: languages/wedevs-project-manager.php:196
+msgid "Menu 1"
+msgstr "Menú 1"
+
+#: languages/wedevs-project-manager.php:192 views/assets/js/pm.js:20
+msgid "Submit"
+msgstr "Enviar"
+
+#: languages/wedevs-project-manager.php:125 views/assets/js/pm.js:61
+msgid "You have no permission to create task for this project"
+msgstr "No tienes permisos para crear una tarea para este proyecto"
+
+#: languages/wedevs-project-manager.php:124 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Loading task lists"
+msgstr "Cargando listas de tareas"
+
+#: languages/wedevs-project-manager.php:123 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "In List"
+msgstr "En la lista"
+
+#: languages/wedevs-project-manager.php:122 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Loading projects"
+msgstr "Cargando proyectos"
+
+#: languages/wedevs-project-manager.php:120 views/assets/js/pm.js:61
+msgid "Apply Filter"
+msgstr "Aplicar filtro"
+
+#: languages/wedevs-project-manager.php:119 views/assets/js/pm.js:61
+msgid "Clear Filter"
+msgstr "Limpiar filtro"
+
+#: languages/wedevs-project-manager.php:114 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Type task list name"
+msgstr "Escribe el nombre de la lista de tareas"
+
+#: languages/wedevs-project-manager.php:112
+#: views/project-switch/task-creating.php:6 views/assets/js/pm.js:61
+msgid "Task title"
+msgstr "Título de la tarea"
+
+#: languages/wedevs-project-manager.php:101 views/assets/js/pm.js:28
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: languages/wedevs-project-manager.php:95 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: languages/wedevs-project-manager.php:94 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Task Type"
+msgstr "Tipo de tarea"
+
+#: languages/wedevs-project-manager.php:92 views/assets/js/pm.js:28
+msgid "Type User Name"
+msgstr "Escribe el nombre de usuario"
+
+#: languages/wedevs-project-manager.php:91 views/assets/js/pm.js:28
+msgid "Add New Task (Character limit 200)"
+msgstr "Añadir nueva tarea (límite de caracteres: 200)"
+
+#: languages/wedevs-project-manager.php:73 views/assets/js/pm.js:28
+msgid "Add"
+msgstr "Añadir"
+
+#: languages/wedevs-project-manager.php:65 views/assets/js/pm.js:28
+msgid "No Description Found!"
+msgstr "¡No se ha encontrado una descripción!"
+
+#: languages/wedevs-project-manager.php:64 views/assets/js/pm.js:28
+msgid "Project Description"
+msgstr "Descripción del proyecto"
+
+#: languages/wedevs-project-manager.php:60 views/assets/js/pm.js:28
+msgid "action"
+msgstr "acción"
+
+#: languages/wedevs-project-manager.php:45 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Hide from others"
+msgstr "Ocultar a otros"
+
+#: languages/wedevs-project-manager.php:44 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "It will hide the task from co-workers and clients.</br>According project settings capability."
+msgstr "Esto ocultará la tarea a los trabajadores y los clientes.</br>Según los permisos de ajustes del proyecto."
+
+#: languages/wedevs-project-manager.php:43 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Privacy"
+msgstr "Privacidad"
+
+#: languages/wedevs-project-manager.php:41 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add Due Date +"
+msgstr "Añadir fecha de vencimiento +"
+
+#: languages/wedevs-project-manager.php:40 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add Due Date"
+msgstr "Añadir fecha de vencimiento"
+
+#: languages/wedevs-project-manager.php:38 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "You can fix a date for when this task</br>is planned to be accomplished."
+msgstr "Puedes fijar una fecha para cuando</br>se planee realizar esta tarea."
+
+#: languages/wedevs-project-manager.php:36 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "No user found!"
+msgstr "¡No se han encontrado usuarios!"
+
+#: languages/wedevs-project-manager.php:35 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add New Member"
+msgstr "Añadir nuevo miembro"
+
+#: languages/wedevs-project-manager.php:34 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add new member"
+msgstr "Añadir nuevo miembro"
+
+#: languages/wedevs-project-manager.php:33 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "You can add team members responsible for this task."
+msgstr "Puedes añadir miembros del equipo responsable de esta tarea."
+
+#: languages/wedevs-project-manager.php:32 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Members"
+msgstr "Miembros"
+
+#: languages/wedevs-project-manager.php:30 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Project:"
+msgstr "Proyecto:"
+
+#: languages/wedevs-project-manager.php:25 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "When the task is done, click to mark it as completed."
+msgstr "Cuando la tarea esté terminada, haz clic para marcarla como completada."
+
+#: languages/wedevs-project-manager.php:23 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Click to mark the task as incompleted."
+msgstr "Haz clic para marcar la tarea como incompleta."
+
+#: languages/wedevs-project-manager.php:22 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "No type found!"
+msgstr "¡No se ha encontrado ningún tipo!"
+
+#: languages/wedevs-project-manager.php:21 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add Task Type"
+msgstr "Añadir un tipo de tarea"
+
+#: languages/wedevs-project-manager.php:20 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add new task type"
+msgstr "Añadir un nuevo tipo de tarea"
+
+#: languages/wedevs-project-manager.php:19 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28
+msgid "Task type not found!"
+msgstr "¡No se ha encontrado el tipo de tarea!"
+
+#: languages/wedevs-project-manager.php:18 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28
+msgid "Loading"
+msgstr "Cargando"
+
+#: languages/wedevs-project-manager.php:17 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Add a type to make your task</br>more specific on this project."
+msgstr "Añade un tipo para que tu tarea</br>sea más específica en este proyecto."
+
+#: languages/wedevs-project-manager.php:16 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Type"
+msgstr "Tipo"
+
+#: views/emails/html/new-task.php:34
+msgid "assigned a task to you"
+msgstr "te ha asignado una tarea"
+
+#: languages/wedevs-project-manager.php:574
+#: views/emails/html/complete-task.php:76 views/assets/js/pm.js:36
+msgid "Date"
+msgstr "Fecha"
+
+#: views/emails/html/complete-task.php:38
+msgid " has completed the task"
+msgstr " ha completado la tarea"
+
+#: views/emails/html/complete-task.php:36
+msgid " has re-open the task"
+msgstr " ha vuelto a abrir la tarea"
+
+#: views/emails/html/footer.php:12
+msgid "Made by"
+msgstr "Hecho por"
+
+#: views/emails/html/complete-task.php:117 views/emails/html/new-task.php:108
+#: views/emails/html/update-task.php:110
+msgid "Collaborators"
+msgstr "Colaboradores"
+
+#: views/emails/html/complete-task.php:97 views/emails/html/update-task.php:90
+msgid "No description found!"
+msgstr "¡No se ha encontrado una descripción!"
+
+#: views/emails/html/complete-task.php:63 views/emails/html/new-task.php:55
+#: views/emails/html/update-task.php:55
+msgid "Assign To"
+msgstr "Asignar a"
+
+#: views/emails/html/complete-task.php:44 views/emails/html/new-task.php:36
+#: views/emails/html/update-task.php:35
+msgid "View this task"
+msgstr "Ver esta tarea"
+
+#: views/emails/html/update-task.php:33
+msgid "updated the task"
+msgstr "ha actualizado la tarea"
+
+#: views/emails/html/update-project.php:34
+msgid "update the project"
+msgstr "actualizar el proyecto"
+
+#: views/emails/html/new-comment.php:36
+msgid " commented on "
+msgstr " comentado en "
+
+#: views/emails/html/new-project.php:108
+#: views/emails/html/update-project.php:108
+msgid "Project Assignes"
+msgstr "Proyectos asignados"
+
+#: views/emails/html/new-project.php:77
+msgid "You are assigned a project"
+msgstr "Se te ha asignado un proyecto"
+
+#: languages/wedevs-project-manager.php:121
+#: views/emails/html/complete-task.php:87 views/emails/html/new-project.php:48
+#: views/emails/html/new-task.php:79 views/emails/html/update-project.php:49
+#: views/emails/html/update-task.php:80 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Project"
+msgstr "Proyecto"
+
+#: views/emails/html/new-project.php:36 views/emails/html/update-project.php:36
+msgid "View this project"
+msgstr "Ver este proyecto"
+
+#: views/emails/html/new-project.php:34
+msgid "assigned a project to you"
+msgstr "te ha asignado un proyecto"
+
+#: views/emails/html/update-message.php:34
+msgid "update the discussion"
+msgstr "actualizar el debate"
+
+#: views/emails/html/new-comment.php:116
+#: views/emails/html/update-comment.php:117
+msgid "Reply"
+msgstr "Responder"
+
+#: views/emails/html/new-comment.php:50 views/emails/html/update-comment.php:50
+msgid "View this comment"
+msgstr "Ver este comentario"
+
+#: views/emails/html/update-comment.php:36
+msgid " update comment on "
+msgstr " ha actualizado un comentario en "
+
+#: views/emails/html/new-message.php:121
+#: views/emails/html/update-message.php:121
+msgid "Discussion Members"
+msgstr "Miembros del debate"
+
+#: views/emails/html/new-message.php:109
+#: views/emails/html/update-message.php:109
+msgid "View Discussion"
+msgstr "Ver debate"
+
+#: views/emails/html/new-message.php:82 views/emails/html/update-message.php:82
+msgid "Details"
+msgstr "Detalles"
+
+#: views/emails/html/new-message.php:47 views/emails/html/update-message.php:47
+msgid "View this discussion"
+msgstr "Ver este debate"
+
+#: views/emails/html/new-message.php:34
+msgid "start a new discussion"
+msgstr "iniciar un nuevo debate"
+
+#: libs/functions.php:1323
+msgid "PM Manager"
+msgstr "Gerente de PM"
+
+#: libs/functions.php:1322
+msgid "PM Admin"
+msgstr "Administrador de PM"
+
+#: languages/wedevs-project-manager.php:229 views/assets/js/pm.js:36
+msgid "My Tasks"
+msgstr "Mis tareas"
+
+#: languages/wedevs-project-manager.php:230 views/assets/js/pm.js:20
+msgid "Select an User"
+msgstr "Selecciona un usuario"
+
+#: languages/wedevs-project-manager.php:226 views/assets/js/pm.js:36
+msgid "Completed Task"
+msgstr "Tarea completa"
+
+#: languages/wedevs-project-manager.php:134 views/assets/js/pm.js:36
+msgid "Outstanding Task"
+msgstr "Tarea destacada"
+
+#: languages/wedevs-project-manager.php:228 views/assets/js/pm.js:36
+msgid "Current Task"
+msgstr "Tarea actual"
+
+#: languages/wedevs-project-manager.php:239 views/assets/js/pm.js:36
+msgid "Outstanding"
+msgstr "Cuenta por pagar"
+
+#: languages/wedevs-project-manager.php:238 views/assets/js/pm.js:36
+msgid "Current"
+msgstr "Actual"
+
+#: languages/wedevs-project-manager.php:237 views/assets/js/pm.js:36
+msgid "At a glance"
+msgstr "De un vistazo"
+
+#: languages/wedevs-project-manager.php:219 views/assets/js/pm.js:36
+msgid "My Calendar"
+msgstr "Mi calendario"
+
+#: languages/wedevs-project-manager.php:218 views/assets/js/pm.js:36
+msgid "Load More"
+msgstr "Cargar más"
+
+#: languages/wedevs-project-manager.php:216 views/assets/js/pm.js:36
+msgid "Provide your App Key & Token"
+msgstr "Proporciona tu clave y el token de la aplicación"
+
+#: core/WP/Menu.php:24
+msgid "My Tasks %s"
+msgstr "Mis tareas %s"
+
+#: languages/wedevs-project-manager.php:390 views/assets/js/pm.js:20
+msgid "Search users..."
+msgstr "Buscar usuarios..."
+
+#: languages/wedevs-project-manager.php:572
+msgid "Users Map to Github & Bitbucket"
+msgstr "Mapa de usuarios de Github y Bitbucket"
+
+#: core/Admin_Notice/Admin_Notice.php:45
+msgid "Update WP Project Manager Pro Now"
+msgstr "Actualizar WP Project Manager Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:42
+msgid "to work with the latest version of WP Project Manager"
+msgstr "para trabajar con la última versión de WP Project Manager"
+
+#: core/Admin_Notice/Admin_Notice.php:39
+msgid "to >= v2.0.12"
+msgstr "hasta >= v2.0.12"
+
+#: core/Admin_Notice/Admin_Notice.php:37
+msgid "WP Project Manager Pro"
+msgstr "WP Project Manager Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:35
+msgid "WP Project Manager Pro is not working because you are using an old version of WP Project Manager Pro. Please update"
+msgstr "WP Project Manager Pro no funciona porque estás utilizando una versión antigua. Por favor, actualiza"
+
+#: core/Admin_Notice/Admin_Notice.php:33
+msgid "UPDATE REQUIRED"
+msgstr "ACTUALIZACIÓN OBLIGATORIA"
+
+#: core/WP/Menu.php:38
+msgid "Premium"
+msgstr "Premium"
+
+#: languages/wedevs-project-manager.php:647 views/assets/js/pm.js:20
+msgid "Go to Modules"
+msgstr "Ir a módulos"
+
+#: languages/wedevs-project-manager.php:646 views/assets/js/pm.js:20
+msgid "Check out all the useful modules that would take your project management experience to a whole new level."
+msgstr "Revisa todos los módulos útiles que llevarán tu experiencia en gestión de proyectos a un nivel completamente nuevo."
+
+#: languages/wedevs-project-manager.php:644 views/assets/js/pm.js:20
+msgid "View Pro features"
+msgstr "Ver características Pro"
+
+#: languages/wedevs-project-manager.php:643 views/assets/js/pm.js:20
+msgid "Enhance your project management performance with extended features in the pro version."
+msgstr "Mejora el rendimiento de la gestión de proyectos con características ampliadas en la versión pro."
+
+#: languages/wedevs-project-manager.php:641 views/assets/js/pm.js:20
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: languages/wedevs-project-manager.php:640 views/assets/js/pm.js:20
+msgid "Get upgraded to Pro version to unlock endless opportunities of managing your project better."
+msgstr "Actualízate a la versión Pro para desbloquear un sinfín de oportunidades de gestionar mejor tu proyecto."
+
+#: languages/wedevs-project-manager.php:637
+msgid "Import Now"
+msgstr "Importar ahora"
+
+#: languages/wedevs-project-manager.php:636
+msgid "other platforms to manage them at one place."
+msgstr "otras plataformas para gestionarlas en un solo lugar."
+
+#: languages/wedevs-project-manager.php:635
+msgid "Effortlessly import projects and project tasks from"
+msgstr "Importa sin esfuerzo desde proyectos y tareas de proyectos"
+
+#: languages/wedevs-project-manager.php:634 views/assets/js/pm.js:36
+msgid "Import"
+msgstr "Importar"
+
+#: languages/wedevs-project-manager.php:631
+msgid "Filter, edit, update or take"
+msgstr "Filtrar, editar, actualizar o coger"
+
+#: core/WP/Menu.php:46
+msgid "Tools"
+msgstr "Herramientas"
+
+#: languages/wedevs-project-manager.php:295 views/assets/js/pm.js:20
+msgid "Enable the hassle-free and popular payment system with the minimum cost possible."
+msgstr "Activa el popular sistema de pago sin complicaciones con el mínimo coste posible."
+
+#: languages/wedevs-project-manager.php:294 views/assets/js/pm.js:20
+msgid "Stripe Gateway"
+msgstr "Stripe Gateway"
+
+#: languages/wedevs-project-manager.php:293 views/assets/js/pm.js:20
+msgid "Invoice creation, payment collection have never been easier before."
+msgstr "La creación de facturas y el cobro de los pagos nunca antes habían sido tan fáciles."
+
+#: languages/wedevs-project-manager.php:292 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Invoice"
+msgstr "Factura"
+
+#: languages/wedevs-project-manager.php:291 views/assets/js/pm.js:20
+msgid "Track the exact time you spend on specific tasks. With Interval option of course."
+msgstr "Lleva un registro del tiempo exacto que dedicas a tareas específicas. Con opción de intervalos, por supuesto."
+
+#: languages/wedevs-project-manager.php:290 views/assets/js/pm.js:20
+msgid "Time Tracker"
+msgstr "Registro de tiempo"
+
+#: languages/wedevs-project-manager.php:289 views/assets/js/pm.js:20
+msgid "Break down your tasks into smaller ones to work more effectively. Keep track of every detail."
+msgstr "Divide tus tareas en tareas más pequeñas para trabajar más eficazmente. Manténte al tanto de cada detalle."
+
+#: languages/wedevs-project-manager.php:288 views/assets/js/pm.js:20
+msgid "Sub Task"
+msgstr "Subtarea"
+
+#: languages/wedevs-project-manager.php:287 views/assets/js/pm.js:20
+msgid "Integrate task management with your WooCommerce store and automate the workflow."
+msgstr "Integra la gestión de tareas con tu tienda WooCommerce y automatiza el flujo de trabajo."
+
+#: languages/wedevs-project-manager.php:286 views/assets/js/pm.js:20
+msgid "WooCommerce Order"
+msgstr "Pedido de WooCommerce"
+
+#: languages/wedevs-project-manager.php:285 views/assets/js/pm.js:20
+msgid "Organize your tasks in Kanban style to keep team-mates updated about task status."
+msgstr "Organiza tus tareas al estilo Kanban para mantener a tus compañeros de equipo actualizados sobre el estado de las tareas."
+
+#: languages/wedevs-project-manager.php:284 views/assets/js/pm.js:20
+msgid "Kanban Board"
+msgstr "Tablero Kanban"
+
+#: languages/wedevs-project-manager.php:283 views/assets/js/pm.js:20
+msgid "Get a graphical overview of task progress, deadline, sub-tasks, project dependencies - everything in one place."
+msgstr "Obtén un resumen gráfico del progreso de las tareas, los plazos, las subtareas, las dependencias del proyecto, todo en un solo lugar."
+
+#: languages/wedevs-project-manager.php:282 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Gantt Chart"
+msgstr "Gráfico de Gantt"
+
+#: languages/wedevs-project-manager.php:281 views/assets/js/pm.js:20
+msgid "Need to bring team networking in your project manager? You're good to go."
+msgstr "¿Necesitas incorporar el trabajo en red de tu equipo en tu gestor de proyectos? Ya puedes hacerlo."
+
+#: languages/wedevs-project-manager.php:280 views/assets/js/pm.js:20
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: languages/wedevs-project-manager.php:279 views/assets/js/pm.js:20
+msgid "Automate routine tasks with this super handy module. Just set the patterns & parameters and the tasks will repeat itself accordingly."
+msgstr "Automatiza las tareas rutinarias con este módulo superpráctico. Sólo tienes que establecer los patrones y parámetros y las tareas, en consecuencia, se repetirán."
+
+#: languages/wedevs-project-manager.php:278 views/assets/js/pm.js:20
+msgid "Recurring Task"
+msgstr "Tarea recurrente"
+
+#: languages/wedevs-project-manager.php:276 views/assets/js/pm.js:20
+msgid "Stay updated with the live progress of your projects. Plan ahead of deadline."
+msgstr "Mantente actualizado con el progreso en directo de tus proyectos. Planifica con anticipación."
+
+#: languages/wedevs-project-manager.php:274 views/assets/js/pm.js:20
+msgid "Generate actionable insights with built-in reporting system."
+msgstr "Genera información procesable con el sistema de informes incorporado."
+
+#: languages/wedevs-project-manager.php:272 views/assets/js/pm.js:20
+msgid "Get the Birdseye view of all tasks from an interactive calendar."
+msgstr "Obtén una vista de pájaro de todas las tareas desde un calendario interactivo."
+
+#: languages/wedevs-project-manager.php:254 views/assets/js/pm.js:36
+msgid "unlocked with the Pro Version."
+msgstr "desbloqueado con la versión Pro."
+
+#: languages/wedevs-project-manager.php:253 views/assets/js/pm.js:36
+msgid "Useful & fascinating features for WP Project Manager that can be"
+msgstr "Funciones útiles y fascinantes para WP Project Manager"
+
+#: languages/wedevs-project-manager.php:252 views/assets/js/pm.js:36
+msgid "Managing Your Project"
+msgstr "Gestión de tu proyecto"
+
+#: languages/wedevs-project-manager.php:251 views/assets/js/pm.js:36
+msgid "More features to unveil while"
+msgstr "Más características que descubrir mientras"
+
+#: languages/wedevs-project-manager.php:277 views/assets/js/pm.js:36
+msgid "Available Modules"
+msgstr "Módulos disponibles"
+
+#: languages/wedevs-project-manager.php:250 views/assets/js/pm.js:36
+msgid "See More"
+msgstr "Ver más"
+
+#: languages/wedevs-project-manager.php:271 views/assets/js/pm.js:36
+msgid "efficiency and productivity reach the peak."
+msgstr "eficiencia y productividad alcanzan su punto máximo."
+
+#: languages/wedevs-project-manager.php:270 views/assets/js/pm.js:36
+msgid "Advanced project management tools to ensure your"
+msgstr "Herramientas avanzadas de gestión de proyectos para garantizar que tu"
+
+#: languages/wedevs-project-manager.php:269 views/assets/js/pm.js:36
+msgid "Premium Features"
+msgstr "Características Premium"
+
+#: languages/wedevs-project-manager.php:268 views/assets/js/pm.js:36
+msgid "Project Manager Pro"
+msgstr "Project Manager Pro"
+
+#: languages/wedevs-project-manager.php:638 views/assets/js/pm.js:36
+msgid "Resources of Project Manager"
+msgstr "Recursos de Project Manager"
+
+#: languages/wedevs-project-manager.php:618 views/assets/js/pm.js:36
+msgid "Features you can use..."
+msgstr "Características que puedes usar..."
+
+#: languages/wedevs-project-manager.php:633 views/assets/js/pm.js:36
+msgid "Read Full Guide"
+msgstr "Lee la guía completa"
+
+#: languages/wedevs-project-manager.php:632 views/assets/js/pm.js:36
+msgid "Create Your First Project"
+msgstr "Crea tu primer proyecto"
+
+#: languages/wedevs-project-manager.php:630 views/assets/js/pm.js:36
+msgid "The best project management tool for WordPress to get things done with your team."
+msgstr "La mejor herramienta de gestión de proyectos para WordPress para organizarte con tu equipo."
+
+#: languages/wedevs-project-manager.php:629 views/assets/js/pm.js:36
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+#: src/Settings/Controllers/Settings_Controller.php:125
+msgid "Delete settings record"
+msgstr "Borrar el registro de ajustes"
+
+#: src/Comment/Validators/Create_Comment.php:11
+#: src/Discussion_Board/Validators/Create_Discussion_Board.php:11
+#: src/Milestone/Validators/Create_Milestone.php:11
+#: src/Project/Validators/Update_Project.php:12
+#: src/Task/Validators/Create_Task.php:11
+#: src/Task_List/Validators/Create_Task_List.php:11
+msgid "Project ID is required."
+msgstr "Se requiere el ID del proyecto."
+
+#: languages/wedevs-project-manager.php:87
+#: src/Search/Controllers/Search_Controller.php:84
+#: src/Search/Controllers/Search_Controller.php:127 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "No results found."
+msgstr "No se han encontrado resultados."
+
+#: languages/wedevs-project-manager.php:12 views/emails/html/new-message.php:60
+#: views/emails/html/update-message.php:60 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Discussion"
+msgstr "Discusión"
+
+#: texts/activities.php:332
+msgid "%1$s has duplicated list from, %2$s."
+msgstr "%1$s ha duplicado la lista de , %2$s."
+
+#: texts/activities.php:322
+msgid "%1$s has deleted a reply comment on a file, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un archivo, %2$s."
+
+#: texts/activities.php:310
+msgid "%1$s has deleted a comment on a file, %2$s."
+msgstr "%1$s ha eliminado un comentario en un archivo, %2$s."
+
+#: texts/activities.php:296
+msgid "%1$s has deleted a reply comment on the project, %2$s."
+msgstr "%1$s ha eliminado una respuesta sobre el proyecto %2$s."
+
+#: texts/activities.php:284
+msgid "%1$s has deleted a comment on the project, %2$s."
+msgstr "%1$s ha eliminado un comentario sobre el proyecto, %2$s."
+
+#: texts/activities.php:270
+msgid "%1$s has deleted a reply comment on a milestone, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un hito, %2$s."
+
+#: texts/activities.php:258
+msgid "%1$s has deleted a comment on a milestone, %2$s."
+msgstr "%1$s ha eliminado un comentario en un hito, %2$s."
+
+#: texts/activities.php:244
+msgid "%1$s has deleted a reply comment on a discussion board, %2$s."
+msgstr "%1$s ha eliminado una respuesta en un panel de discusión, %2$s."
+
+#: texts/activities.php:232
+msgid "%1$s has deleted a comment on a discussion board, %2$s."
+msgstr "%1$s ha eliminado un comentario en un foro de discusión, %2$s."
+
+#: texts/activities.php:218
+msgid "%1$s has deleted a reply comment on a task list, %2$s."
+msgstr "%1$s ha eliminado una respuesta en una lista de tareas, %2$s."
+
+#: texts/activities.php:206
+msgid "%1$s has deleted a comment on a task list, %2$s."
+msgstr "%1$s ha eliminado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:192
+msgid "%1$s has deleted a reply comment on a task, %2$s."
+msgstr "%1$s ha eliminado una respuesta en una tarea, %2$s."
+
+#: texts/activities.php:180
+msgid "%1$s has deleted a comment on a task, %2$s."
+msgstr "%1$s ha eliminado un comentario en una tarea, %2$s."
+
+#: texts/activities.php:126
+msgid "%1$s has deleted a task, %2$s."
+msgstr "%1$s ha eliminado una tarea, %2$s."
+
+#: texts/activities.php:116
+msgid "%1$s has updated the status of a milestone, %2$s."
+msgstr "%1$s ha actualizado el estado de un hito, %2$s."
+
+#: texts/activities.php:100
+msgid "%1$s has deleted a milestone, %2$s."
+msgstr "%1$s ha eliminado un hito, %2$s."
+
+#: texts/activities.php:90
+msgid "%1$s has restored a task list, %2$s."
+msgstr "%1$s ha restaurado una lista de tareas, %2$s."
+
+#: texts/activities.php:86
+msgid "%1$s has archived a task list, %2$s."
+msgstr "%1$s ha archivado una lista de tareas, %2$s."
+
+#: texts/activities.php:70
+msgid "%1$s has deleted a task list titled as %2$s."
+msgstr "%1$s ha eliminado una lista de tareas titulada como %2$s."
+
+#: texts/activities.php:60
+msgid "%1$s has updated the status of a discussion board, %2$s."
+msgstr "%1$s ha actualizado el estado de un foro de discusión, %2$s."
+
+#: texts/activities.php:44
+msgid "%1$s has deleted a discussion board titled as %2$s."
+msgstr "%1$s ha eliminado un panel de discusión titulado como %2$s."
+
+#: languages/wedevs-project-manager.php:566
+msgid "Select the user roles who can create projects."
+msgstr "Selecciona los perfiles de usuario que pueden crear proyectos."
+
+#: languages/wedevs-project-manager.php:397 views/assets/js/pm.js:36
+msgid "Favourite"
+msgstr "Favoritos"
+
+#: languages/wedevs-project-manager.php:444 views/assets/js/pm.js:36
+msgid "Done"
+msgstr "Listo"
+
+#: languages/wedevs-project-manager.php:118 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Assigned to"
+msgstr "Asignado a"
+
+#: languages/wedevs-project-manager.php:117 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "On-going"
+msgstr "En curso"
+
+#: languages/wedevs-project-manager.php:116 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Status"
+msgstr "Estado"
+
+#: languages/wedevs-project-manager.php:233 views/assets/js/pm.js:36
+msgid "No task lists found!"
+msgstr "¡No se han encontrado listas de tareas!"
+
+#: languages/wedevs-project-manager.php:441 views/assets/js/pm.js:36
+msgid "Filter"
+msgstr "Filtrar"
+
+#: languages/wedevs-project-manager.php:111 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Task Filter"
+msgstr "Filtro de tareas"
+
+#: languages/wedevs-project-manager.php:504 views/assets/js/pm.js:36
+msgid "Add Task List"
+msgstr "Añadir lista de tareas"
+
+#: languages/wedevs-project-manager.php:105 views/assets/js/pm.js:28
+msgid "Hide Completed Task"
+msgstr "Ocultar tarea completada"
+
+#: languages/wedevs-project-manager.php:104 views/assets/js/pm.js:28
+msgid "Show Completed Task"
+msgstr "Mostrar tarea completada"
+
+#: languages/wedevs-project-manager.php:102 views/assets/js/pm.js:28
+msgid "Move"
+msgstr "Mover"
+
+#: languages/wedevs-project-manager.php:98 views/assets/js/pm.js:28
+msgid "Move Task"
+msgstr "Mover tarea"
+
+#: languages/wedevs-project-manager.php:97 views/assets/js/pm.js:28
+msgid "Search Lists"
+msgstr "Buscar listas"
+
+#: languages/wedevs-project-manager.php:96 views/assets/js/pm.js:28
+msgid "Task: "
+msgstr "Tarea: "
+
+#: languages/wedevs-project-manager.php:208 views/assets/js/pm.js:20
+msgid "Less Than 1 week"
+msgstr "Menos de 1 semana"
+
+#: languages/wedevs-project-manager.php:207 views/assets/js/pm.js:20
+msgid "Today"
+msgstr "Hoy"
+
+#: languages/wedevs-project-manager.php:206 views/assets/js/pm.js:20
+msgid "Over Due"
+msgstr "Vencido"
+
+#: languages/wedevs-project-manager.php:205 views/assets/js/pm.js:20
+msgid "Any"
+msgstr "Cualquiera"
+
+#: languages/wedevs-project-manager.php:446 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Create"
+msgstr "Crear"
+
+#: languages/wedevs-project-manager.php:393 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Client"
+msgstr "Cliente"
+
+#: languages/wedevs-project-manager.php:47 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Update"
+msgstr "Actualizar"
+
+#: languages/wedevs-project-manager.php:31 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Task List:"
+msgstr "Lista de tareas:"
+
+#: languages/wedevs-project-manager.php:507 views/assets/js/pm.js:20
+msgid "Make Visible"
+msgstr "Hacer visible"
+
+#: languages/wedevs-project-manager.php:29 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Copy Link"
+msgstr "Copiar enlace"
+
+#: languages/wedevs-project-manager.php:27 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Created by"
+msgstr "Creado por"
+
+#: languages/wedevs-project-manager.php:26 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Mark Complete"
+msgstr "Marcar como completado"
+
+#: languages/wedevs-project-manager.php:15 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Add a comment"
+msgstr "Añadir un comentario"
+
+#: languages/wedevs-project-manager.php:11 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Search User"
+msgstr "Buscar usuario"
+
+#: languages/wedevs-project-manager.php:10 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Assign to"
+msgstr "Asignar a"
+
+#: languages/wedevs-project-manager.php:9 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Notify user"
+msgstr "Notificar al usuario"
+
+#: languages/wedevs-project-manager.php:8 views/assets/js/library.js:1
+#: views/assets/js/library.js:20 views/assets/js/pm.js:1
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Attach"
+msgstr "Adjuntar"
+
+#: languages/wedevs-project-manager.php:194 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1 views/assets/js/pm.js:20
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: languages/wedevs-project-manager.php:531 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Task visible for co-worker"
+msgstr "Tarea visible para el trabajador"
+
+#: languages/wedevs-project-manager.php:530 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Task marked as private"
+msgstr "Tarea marcada como privada"
+
+#: languages/wedevs-project-manager.php:529 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Invalid date range!"
+msgstr "¡Rango de fecha no válido!"
+
+#: languages/wedevs-project-manager.php:528 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#: languages/wedevs-project-manager.php:3 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1 views/assets/js/pm.js:20
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: core/Promotions/Offers.php:176 core/Promotions/Wedevs_Promotion.php:190
+msgid "Invalid nonce"
+msgstr "Nonce no válido"
+
+#: core/Promotions/Offers.php:181 core/Promotions/Wedevs_Promotion.php:194
+msgid "You have no permission to do that"
+msgstr "No tienes permiso para hacer eso"
+
+#: core/Promotions/Wedevs_Promotion.php:82
+msgid "Learn More &rarr;"
+msgstr "Aprende más &rarr;"
+
+#: core/WP/Frontend.php:354 views/project-switch/project-switch.php:5
+msgid "Jump to a project"
+msgstr "Ir a un proyecto"
+
+#: core/WP/Frontend.php:325 core/WP/Frontend.php:338
+msgid "Create New Task"
+msgstr "Crear nueva tarea"
+
+#: core/Notifications/Emails/Update_Message_Notification.php:58
+msgid "[%s][%s] Update Message: %s"
+msgstr "[%s][%s] Actualizar mensaje: %s"
+
+#: core/Notifications/Background_Emailer.php:48
+#: core/Notifications/Notification.php:112
+msgid "Transactional email triggered fatal error for callback "
+msgstr "El correo electrónico transaccional provocó un error fatal de devolución de llamada "
+
+#: core/Upgrades/Upgrade.php:153
+msgid "&#8211; Please click the button below to update to the latest version."
+msgstr "&#8211; Por favor, haz clic en el botón de abajo para actualizar a la última versión."
+
+#: core/Upgrades/Upgrade.php:152
+msgid "WP Project Manager Data Update Required"
+msgstr "Actualización de datos de WP Project Manager obligatoria"
+
+#: core/Upgrades/Upgrade_2_2.php:34 languages/wedevs-project-manager.php:505
+#: src/Project/Controllers/Project_Controller.php:428 views/assets/js/pm.js:36
+msgid "This is a system default task list. Any task without an assigned tasklist will appear here."
+msgstr "Esta es una lista de tareas predeterminada del sistema. Cualquier tarea sin una lista de tareas asignada aparecerá aquí."
+
+#: core/Upgrades/Upgrade_2_2.php:33 languages/wedevs-project-manager.php:424
+#: src/Project/Controllers/Project_Controller.php:427 views/assets/js/pm.js:36
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
+#: src/Project/Controllers/Project_Controller.php:406
+msgid "The project has been marked as favorite"
+msgstr "El proyecto ha sido marcado como favorito"
+
+#: src/Project/Validators/Create_Project.php:11
+#: src/Project/Validators/Update_Project.php:11
+msgid "Project title must be unique."
+msgstr "El título del proyecto debe ser único."
+
+#: languages/wedevs-project-manager.php:63 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Delete project"
+msgstr "Borrar proyecto"
+
+#: languages/wedevs-project-manager.php:514 views/assets/js/pm.js:20
+msgid "Estimated hour to complete the task"
+msgstr "Hora estimada para completar la tarea"
+
+#. Author URI of the plugin
+#: cpm.php
+msgid "https://wedevs.com"
+msgstr "https://wedevs.com"
+
+#. Author of the plugin
+#: cpm.php
+msgid "weDevs"
+msgstr "weDevs"
+
+#. Description of the plugin
+#: cpm.php
+msgid "WordPress Project Management plugin. Manage your projects and tasks, get things done."
+msgstr "Plugin de gestión de proyectos para WordPress. Gestiona tus proyectos y tareas, haz que las cosas sucedan."
+
+#. Plugin URI of the plugin
+#: cpm.php
+msgid "https://wedevs.com/wp-project-manager-pro/"
+msgstr "https://wedevs.com/wp-project-manager-pro/"
+
+#. Plugin Name of the plugin
+#: cpm.php core/User_Profile/Profile_Update.php:56
+#: languages/wedevs-project-manager.php:593 views/assets/js/pm.js:36
+msgid "WP Project Manager"
+msgstr "WP Project Manager"
+
+#: languages/wedevs-project-manager.php:99 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28
+msgid "Make Private"
+msgstr "Hacer privado"
+
+#: languages/wedevs-project-manager.php:100 views/assets/js/pm.js:28
+msgid "Make Public"
+msgstr "Hacer público"
+
+#: languages/wedevs-project-manager.php:231 views/assets/js/pm.js:36
+msgid "New Task"
+msgstr "Nueva tarea"
+
+#: languages/wedevs-project-manager.php:93 views/assets/js/pm.js:28
+msgid "Assign user"
+msgstr "Asignar usuario"
+
+#: views/emails/html/new-comment.php:89 views/emails/html/update-comment.php:89
+msgid "Comment"
+msgstr "Comentario"
+
+#: views/emails/html/update-comment.php:76
+#: views/emails/html/update-message.php:69
+#: views/emails/html/update-project.php:58
+msgid "Updated at"
+msgstr "Actualizado a las"
+
+#: src/Task/Helper/Task.php:104
+msgid "Created At"
+msgstr "Creado a las"
+
+#: views/emails/html/new-project.php:96 views/emails/html/update-project.php:96
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: views/emails/html/new-project.php:85 views/emails/html/update-project.php:85
+msgid "You can see the project by going here: "
+msgstr "Puedes ver el proyecto yendo aquí:"
+
+#: languages/wedevs-project-manager.php:213 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Title"
+msgstr "Título"
+
+#: languages/wedevs-project-manager.php:502 views/assets/js/pm.js:36
+msgid "New comment"
+msgstr "Nuevo comentario"
+
+#: views/emails/html/complete-task.php:105 views/emails/html/new-task.php:96
+#: views/emails/html/update-task.php:98
+msgid "View Task"
+msgstr "Ver tarea"
+
+#: src/Pusher/Libs/action.php:162
+msgid "due date"
+msgstr "fecha de vencimiento"
+
+#: texts/success_messages.php:90
+msgid "Task reopened"
+msgstr "Tarea reactivada"
+
+#: texts/success_messages.php:87
+msgid "Task marked as done"
+msgstr "Tarea marcada como hecha"
+
+#: languages/wedevs-project-manager.php:243 views/assets/js/pm.js:36
+msgid "No project found."
+msgstr "No se ha encontrado ningún proyecto."
+
+#: texts/success_messages.php:81
+msgid "No elements found."
+msgstr "No se han encontrado elementos."
+
+#: texts/success_messages.php:78
+msgid "Settings has been changed successfully."
+msgstr "Los ajustes se han modificado correctamente."
+
+#: texts/success_messages.php:75
+msgid "A task has been deleted successfully."
+msgstr "Una tarea ha sido eliminada correctamente."
+
+#: texts/success_messages.php:72
+msgid "A task has been updated successfully."
+msgstr "Una tarea ha sido actualizada correctamente."
+
+#: texts/success_messages.php:69
+msgid "A new task has been created successfully."
+msgstr "Una nueva tarea ha sido creada correctamente."
+
+#: texts/success_messages.php:65
+msgid "A task list has been deleted successfully."
+msgstr "Una lista  de tareas ha sido borrada correctamente."
+
+#: texts/success_messages.php:62
+msgid "A task list has been updated successfully."
+msgstr "Una lista de tareas ha sido actualizada correctamente."
+
+#: texts/success_messages.php:59
+msgid "A new task list has been created successfully."
+msgstr "Una nueva lista de tareas ha sido creada correctamente."
+
+#: texts/success_messages.php:55
+msgid "A milestone has been deleted successfully."
+msgstr "Un hito ha sido eliminado correctamente."
+
+#: texts/success_messages.php:52
+msgid "A milestone has been updated successfully."
+msgstr "Un hito ha sido actualizado correctamente."
+
+#: texts/success_messages.php:49
+msgid "A new milestone has been created successfully."
+msgstr "Un nuevo hito ha sido creado correctamente."
+
+#: texts/success_messages.php:45
+msgid "A discussion has been deleted successfully."
+msgstr "Una discusión ha sido eliminada correctamente."
+
+#: texts/success_messages.php:42
+msgid "A discussion has been updated successfully."
+msgstr "Se ha actualizado una discusión correctamente."
+
+#: texts/success_messages.php:39
+msgid "A new discussion has been created successfully."
+msgstr "Se ha creado una nueva discusión correctamente."
+
+#: texts/success_messages.php:35
+msgid "A comment has been deleted successfully."
+msgstr "Un comentario ha sido eliminado correctamente."
+
+#: texts/success_messages.php:32
+msgid "A comment has been updated successfully."
+msgstr "Se ha actualizado un comentario correctamente."
+
+#: texts/success_messages.php:29
+msgid "Successfully commented."
+msgstr "Se ha comentado correctamente."
+
+#: texts/success_messages.php:25
+msgid "All the selected categories has been deleted successfully."
+msgstr "Todas las categorías seleccionadas se han eliminado correctamente."
+
+#: texts/success_messages.php:22
+msgid "A category has been deleted successfully."
+msgstr "Una categoría se ha eliminado correctamente."
+
+#: texts/success_messages.php:19
+msgid "A category has been updated successfully."
+msgstr "Una categoría se ha actualizado correctamente."
+
+#: texts/success_messages.php:16
+msgid "A new category has been created successfully."
+msgstr "Se ha creado una categoría correctamente."
+
+#: texts/success_messages.php:12
+msgid "A project has been deleted successfully."
+msgstr "Un proyecto se ha borrado correctamente."
+
+#: texts/success_messages.php:9
+msgid "A project has been updated successfully."
+msgstr "Un proyecto ha sido actualizado correctamente."
+
+#: texts/success_messages.php:6
+msgid "A new project has been created successfully."
+msgstr "Se ha creado un proyecto correctamente."
+
+#: src/Pusher/Libs/action.php:225 src/Pusher/Libs/action.php:305
+#: texts/resource_types.php:23
+msgid "file"
+msgstr "archivo"
+
+#: texts/resource_types.php:20
+msgid "comment"
+msgstr "comentario"
+
+#: texts/resource_types.php:17
+msgid "milestone"
+msgstr "hito"
+
+#: src/Pusher/Libs/action.php:50 src/Pusher/Libs/action.php:51
+#: src/Pusher/Libs/action.php:219 src/Pusher/Libs/action.php:300
+#: texts/resource_types.php:14
+msgid "task"
+msgstr "tarea"
+
+#: src/Pusher/Libs/action.php:211 src/Pusher/Libs/action.php:292
+#: texts/resource_types.php:11
+msgid "task list"
+msgstr "lista de tareas"
+
+#: src/Pusher/Libs/action.php:233 src/Pusher/Libs/action.php:313
+#: texts/resource_types.php:8
+msgid "discussion board"
+msgstr "tablero de discusión"
+
+#: texts/resource_types.php:5
+msgid "project"
+msgstr "proyecto"
+
+#: texts/activities.php:328
+msgid "%1$s has duplicated project from, %2$s."
+msgstr "%1$s ha duplicado el proyecto de , %2$s."
+
+#: texts/activities.php:318
+msgid "%1$s has updated a reply comment on a file, %2$s."
+msgstr "%1$s ha actualizado una respuesta en un archivo, %2$s."
+
+#: texts/activities.php:314
+msgid "%1$s has replied a comment on a file, %2$s"
+msgstr "%1$s ha contestado un comentario sobre un archivo, %2$s"
+
+#: texts/activities.php:306
+msgid "%1$s has updated a comment on a file, %2$s."
+msgstr "%1$s ha actualizado un comentario en un archivo, %2$s."
+
+#: texts/activities.php:302
+msgid "%1$s has commented on a file, %2$s."
+msgstr "%1$s ha comentado en un archivo, %2$s."
+
+#: texts/activities.php:292
+msgid "%1$s has updated a reply comment on the project, %2$s."
+msgstr "%1$s ha actualizado una respuesta sobre el proyecto, %2$s."
+
+#: texts/activities.php:288
+msgid "%1$s has replied a comment on the project, %2$s"
+msgstr "%1$s ha contestado un comentario en el proyecto, %2$s"
+
+#: texts/activities.php:280
+msgid "%1$s has updated a comment on the project, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre el proyecto, %2$s."
+
+#: texts/activities.php:276
+msgid "%1$s has commented on the project, %2$s."
+msgstr "%1$s ha comentado sobre el proyecto, %2$s."
+
+#: texts/activities.php:266
+msgid "%1$s has updated a reply comment on a milestone, %2$s."
+msgstr "%1$s ha actualizado un comentario en un hito, %2$s."
+
+#: texts/activities.php:262
+msgid "%1$s has replied a comment on a milestone, %2$s"
+msgstr "%1$s ha contestado un comentario sobre un hito, %2$s"
+
+#: texts/activities.php:254
+msgid "%1$s has updated a comment on a milestone, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre un hito, %2$s."
+
+#: texts/activities.php:250
+msgid "%1$s has commented on a milestone, %2$s."
+msgstr "%1$s ha comentado sobre un hito, %2$s."
+
+#: texts/activities.php:240
+msgid "%1$s has updated a reply comment on a discussion board, %2$s."
+msgstr "%1$s ha actualizado una respuesta en un foro de discusión, %2$s."
+
+#: texts/activities.php:236
+msgid "%1$s has replied a comment on a discussion board, %2$s"
+msgstr "%1$s ha respondido a un comentario en un foro de discusión, %2$s"
+
+#: texts/activities.php:228
+msgid "%1$s has updated a comment on a discussion board, %2$s."
+msgstr "%1$s ha actualizado un comentario en un foro de discusión, %2$s."
+
+#: texts/activities.php:224
+msgid "%1$s has commented on a discussion board, %2$s."
+msgstr "%1$s ha comentado en un foro de discusión, %2$s."
+
+#: texts/activities.php:214
+msgid "%1$s has updated a reply comment on a task list, %2$s."
+msgstr "%1$s ha actualizado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:210
+msgid "%1$s has replied a comment on a task list, %2$s"
+msgstr "%1$s ha contestado un comentario en una lista de tareas, %2$s"
+
+#: texts/activities.php:202
+msgid "%1$s has updated a comment on a task list, %2$s."
+msgstr "%1$s ha actualizado un comentario en una lista de tareas, %2$s."
+
+#: texts/activities.php:198
+msgid "%1$s has commented on a task list, %2$s."
+msgstr "%1$s ha comentado en una lista de tareas, %2$s."
+
+#: texts/activities.php:188
+msgid "%1$s has updated a reply comment on a task, %2$s."
+msgstr "%1$s ha actualizado un comentario en una tarea, %2$s."
+
+#: texts/activities.php:184
+msgid "%1$s has replied a comment on a task, %2$s"
+msgstr "%1$s ha contestado un comentario sobre una tarea, %2$s"
+
+#: texts/activities.php:176
+msgid "%1$s has updated a comment on a task, %2$s."
+msgstr "%1$s ha actualizado un comentario sobre una tarea, %2$s."
+
+#: texts/activities.php:172
+msgid "%1$s has commented on a task, %2$s."
+msgstr "%1$s ha comentado en una tarea, %2$s."
+
+#: texts/activities.php:166
+msgid "%1$s has updated the status of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado el estado de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:162
+msgid "%1$s has updated the recurrency of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la recurrencia de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:158
+msgid "%1$s has updated the payable status of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado el estado pagadero de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:154
+msgid "%1$s has updated the priority of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la prioridad de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:150
+msgid "%1$s has updated the complexity of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la complejidad de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:146
+msgid "%1$s has updated the due date of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la fecha de vencimiento de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:142
+msgid "%1$s has updated the start date of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la fecha de inicio de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:138
+msgid "%1$s has updated the estimation of a task, %2$s, from %3$s to %4$s."
+msgstr "%1$s ha actualizado la estimación de una tarea, %2$s, de %3$s a %4$s."
+
+#: texts/activities.php:134
+msgid "%1$s has updated the description of a task, %2$s."
+msgstr "%1$s ha actualizado la descripción de una tarea, %2$s."
+
+#: texts/activities.php:130
+msgid "%1$s has updated the title of a task from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de una tarea de «%2$s» a «%3$s»."
+
+#: texts/activities.php:122
+msgid "%1$s has created a task, %2$s."
+msgstr "%1$s ha creado una tarea, %2$s."
+
+#: texts/activities.php:112
+msgid "%1$s has updated the order of a milestone, %2$s."
+msgstr "%1$s ha actualizado el orden de un hito, %2$s."
+
+#: texts/activities.php:108
+msgid "%1$s has updated the description of a milestone, %2$s."
+msgstr "%1$s ha actualizado la descripción de un hito, %2$s."
+
+#: texts/activities.php:104
+msgid "%1$s has updated the title of a milestone from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de un hito de «%2$s» a «%3$s»."
+
+#: texts/activities.php:96
+msgid "%1$s has created a milestone, %2$s."
+msgstr "%1$s ha creado un hito, %2$s."
+
+#: texts/activities.php:82
+msgid "%1$s has updated the order of a task list, %2$s."
+msgstr "%1$s ha actualizado el orden de una lista de tareas, %2$s."
+
+#: texts/activities.php:78
+msgid "%1$s has updated the description of a task list, %2$s."
+msgstr "%1$s ha actualizado la descripción de una lista de tareas, %2$s."
+
+#: texts/activities.php:74
+msgid "%1$s has updated the title of a task list from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de una lista de tareas de «%2$s» a «%3$s»."
+
+#: texts/activities.php:66
+msgid "%1$s has created a task list titled as %2$s."
+msgstr "%1$s ha creado una lista de tareas titulada como %2$s."
+
+#: texts/activities.php:56
+msgid "%1$s has updated the order of a discussion board, %2$s."
+msgstr "%1$s ha actualizado el orden de un foro de discusión, %2$s."
+
+#: texts/activities.php:52
+msgid "%1$s has updated the description of a discussion board, %2$s."
+msgstr "%1$s ha actualizado la descripción de un foro de discusión, %2$s."
+
+#: texts/activities.php:48
+msgid "%1$s has updated the title of a discussion board from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título de un foro de discusión de «%2$s» a «%3$s»."
+
+#: texts/activities.php:40
+msgid "%1$s has created a discussion board titled as %2$s."
+msgstr "%1$s ha creado un foro de discusión titulado %2$s."
+
+#: texts/activities.php:34
+msgid "%1$s has updated project color code from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el código de color del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:30
+msgid "%1$s has updated project est completion date from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado la fecha de finalización del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:26
+msgid "%1$s has updated project pay rate from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado la tasa de pago del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:22
+msgid "%1$s has updated project budget from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el presupuesto del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:18
+msgid "%1$s has updated project status from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el estado del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:14
+msgid "%1$s has updated %2$s project description."
+msgstr "%1$s ha actualizado %2$s descripción del proyecto."
+
+#: texts/activities.php:10
+msgid "%1$s has updated project title from \"%2$s\" to \"%3$s\"."
+msgstr "%1$s ha actualizado el título del proyecto de «%2$s» a «%3$s»."
+
+#: texts/activities.php:6
+msgid "%1$s has created a project titled as %2$s."
+msgstr "%1$s ha creado un proyecto titulado %2$s."
+
+#: src/Task_List/Validators/Update_Task_List.php:12
+msgid "Task list ID must be greater than zero"
+msgstr "El ID de lista de tareas debe ser mayor que cero"
+
+#: src/Task_List/Validators/Update_Task_List.php:11
+msgid "Task list ID is required."
+msgstr "Se requiere el identificador de lista de tareas."
+
+#: src/Task_List/Validators/Create_Task_List.php:10
+#: src/Task_List/Validators/Update_Task_List.php:10
+msgid "Task list title is required."
+msgstr "El título de la lista de tareas es obligatorio."
+
+#: src/Task/Validators/Update_Task.php:12
+msgid "Task ID must be greater than zero"
+msgstr "El ID de la tarea debe ser mayor que cero"
+
+#: src/Task/Validators/Update_Task.php:11
+msgid "Task ID is required."
+msgstr "Se requiere el ID de la tarea."
+
+#: src/Task/Validators/Create_Task.php:10
+#: src/Task/Validators/Update_Task.php:10
+msgid "Task title is required."
+msgstr "El título de la tarea es obligatorio."
+
+#: src/Role/Validators/Update_Role.php:12
+msgid "Role ID must be greater than zero"
+msgstr "El ID del perfil debe ser mayor a cero"
+
+#: src/Role/Validators/Update_Role.php:11
+msgid "Role ID is required."
+msgstr "El ID de perfil es obligatorio."
+
+#: src/Role/Validators/Create_Role.php:10
+#: src/Role/Validators/Update_Role.php:10
+msgid "Role title is required."
+msgstr "El título del perfil es obligatorio."
+
+#: src/Project/Validators/Update_Project.php:13
+msgid "Project ID must be greater than zero"
+msgstr "El ID del proyecto debe ser mayor que cero"
+
+#: languages/wedevs-project-manager.php:394
+#: src/Project/Validators/Create_Project.php:10
+#: src/Project/Validators/Update_Project.php:10 views/assets/js/pm.js:1
+#: views/assets/js/pm.js:20
+msgid "Project title is required."
+msgstr "El título del proyecto es obligatorio."
+
+#: src/Milestone/Validators/Update_Milestone.php:12
+msgid "Milestone ID must be greater than zero"
+msgstr "El ID del hito debe ser mayor que cero"
+
+#: src/Milestone/Validators/Update_Milestone.php:11
+msgid "Milestone ID is required."
+msgstr "Se requiere el ID de hito."
+
+#: src/Milestone/Validators/Create_Milestone.php:10
+#: src/Milestone/Validators/Update_Milestone.php:10
+msgid "Milestone title is required."
+msgstr "El título del hito es obligatorio."
+
+#: src/File/Controllers/File_Controller.php:102
+msgid "file not found"
+msgstr "archivo no encontrado"
+
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:12
+msgid "Discussion ID must be greater than zero"
+msgstr "El ID de la discusión debe ser mayor que cero"
+
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:11
+msgid "Discussion ID is required."
+msgstr "El ID de la discusión es obligatorio."
+
+#: src/Discussion_Board/Validators/Create_Discussion_Board.php:10
+#: src/Discussion_Board/Validators/Update_Discussion_Board.php:10
+msgid "Discussion title is required."
+msgstr "El título de la discusión es obligatorio."
+
+#: src/Comment/Validators/Update_Comment.php:12
+msgid "Comment ID must be greater than zero"
+msgstr "El ID del comentario debe ser mayor que cero"
+
+#: src/Comment/Validators/Update_Comment.php:11
+msgid "Comment ID is required."
+msgstr "El ID del comentario es obligatorio."
+
+#: src/Comment/Validators/Create_Comment.php:10
+#: src/Comment/Validators/Update_Comment.php:10
+msgid "Comment title is required."
+msgstr "El título del comentario es obligatorio."
+
+#: src/Category/Validators/Update_Category.php:12
+msgid "Category ID must be greater than zero"
+msgstr "El ID de la categoría debe ser mayor que cero"
+
+#: src/Category/Validators/Update_Category.php:11
+msgid "Category ID is required."
+msgstr "El ID de la categoría es obligatorio."
+
+#: src/Category/Validators/Create_Category.php:10
+#: src/Category/Validators/Update_Category.php:10
+msgid "Category title is required."
+msgstr "El título de la categoría es obligatorio."
+
+#: languages/wedevs-project-manager.php:565
+msgid "Project Creation Capability"
+msgstr "Capacidad de creación de proyectos"
+
+#: languages/wedevs-project-manager.php:564
+msgid "Select the user roles who can see and manage all projects."
+msgstr "Selecciona los perfiles de usuario que pueden ver y gestionar todos los proyectos."
+
+#: languages/wedevs-project-manager.php:563
+msgid "Project Managing Capability"
+msgstr "Capacidad de gestión de proyectos"
+
+#: languages/wedevs-project-manager.php:562 views/assets/js/pm.js:36
+msgid "Completed Tasks Per Page"
+msgstr "Tareas completadas por página"
+
+#: languages/wedevs-project-manager.php:561 views/assets/js/pm.js:36
+msgid "Incomplete Tasks Per Page"
+msgstr "Tareas incompletas por página"
+
+#: languages/wedevs-project-manager.php:560 views/assets/js/pm.js:36
+msgid "Task Lists Per Page"
+msgstr "Listas de tareas por página"
+
+#: languages/wedevs-project-manager.php:559 views/assets/js/pm.js:36
+msgid "-1 for unlimited"
+msgstr "-1 para ilimitado"
+
+#: languages/wedevs-project-manager.php:558 views/assets/js/pm.js:36
+msgid "Projects Per Page"
+msgstr "Proyectos por página"
+
+#: languages/wedevs-project-manager.php:557 views/assets/js/pm.js:36
+msgid "File Size in Megabytes. e.g: 2"
+msgstr "Tamaño de archivos en megabytes. ej: 2"
+
+#: languages/wedevs-project-manager.php:556 views/assets/js/pm.js:36
+msgid "File Upload Limit"
+msgstr "Límite de carga de Archivos"
+
+#: languages/wedevs-project-manager.php:555 views/assets/js/pm.js:36
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: languages/wedevs-project-manager.php:480 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: languages/wedevs-project-manager.php:554 views/assets/js/pm.js:36
+msgid "Enable Bcc"
+msgstr "Activar CCO"
+
+#: languages/wedevs-project-manager.php:553 views/assets/js/pm.js:36
+msgid "Send email via Bcc"
+msgstr "Enviar correo electrónico CCO"
+
+#: languages/wedevs-project-manager.php:552 views/assets/js/pm.js:36
+msgid "Plain Text"
+msgstr "Texto plano"
+
+#: languages/wedevs-project-manager.php:551 views/assets/js/pm.js:36
+msgid "HTML Mail"
+msgstr "Correo HTML"
+
+#: languages/wedevs-project-manager.php:550 views/assets/js/pm.js:36
+msgid "E-Mail Type"
+msgstr "Tipo de correo electrónico"
+
+#: languages/wedevs-project-manager.php:549 views/assets/js/pm.js:36
+msgid "Select where do you want to take the user. Notification emails contain links."
+msgstr "Elige dónde quieres llevar al usuario. Los mensajes de notificación contienen enlaces."
+
+#: languages/wedevs-project-manager.php:548 views/assets/js/pm.js:36
+msgid "Link to Backend"
+msgstr "Enlazar al escritorio"
+
+#: languages/wedevs-project-manager.php:547 views/assets/js/pm.js:36
+msgid "Links in the Email"
+msgstr "Enlaces en el correo electrónico"
+
+#: languages/wedevs-project-manager.php:546 views/assets/js/pm.js:36
+msgid "From Email"
+msgstr "Correo electrónico del remitente"
+
+#: languages/wedevs-project-manager.php:545 views/assets/js/pm.js:36
+msgid "E-Mail Settings"
+msgstr "Ajustes del correo electrónico"
+
+#: languages/wedevs-project-manager.php:524 views/assets/js/pm.js:20
+msgid "Delete List"
+msgstr "Borrar lista"
+
+#: languages/wedevs-project-manager.php:523 views/assets/js/pm.js:36
+msgid "Back to Task Lists"
+msgstr "Volver a las listas de tareas"
+
+#: languages/wedevs-project-manager.php:522 views/assets/js/pm.js:36
+msgid "Completed Tasks"
+msgstr "Tareas completadas"
+
+#: languages/wedevs-project-manager.php:520 views/assets/js/pm.js:36
+msgid "Incomplete Tasks"
+msgstr "Tareas incompletas"
+
+#: languages/wedevs-project-manager.php:518 views/assets/js/pm.js:20
+msgid "Update List"
+msgstr "Actualizar lista"
+
+#: languages/wedevs-project-manager.php:517 views/assets/js/pm.js:20
+msgid "Task list details"
+msgstr "Detalles de la lista de tareas"
+
+#: languages/wedevs-project-manager.php:113 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:61
+msgid "Task list name"
+msgstr "Nombre de la lista de tareas"
+
+#: languages/wedevs-project-manager.php:88 views/assets/js/pm.js:28
+msgid "New Task List"
+msgstr "Nueva lista de tareas"
+
+#: languages/wedevs-project-manager.php:513 views/assets/js/pm.js:20
+msgid "Update Task"
+msgstr "Actualizar la tarea"
+
+#: languages/wedevs-project-manager.php:512 views/assets/js/pm.js:20
+msgid "Select User"
+msgstr "Seleccionar el usuario"
+
+#: languages/wedevs-project-manager.php:511 views/assets/js/pm.js:20
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: languages/wedevs-project-manager.php:510 views/assets/js/pm.js:20
+msgid "Add extra details about this task (optional)"
+msgstr "Agregar detalles adicionales acerca de esta Actividad (opcional)"
+
+#: languages/wedevs-project-manager.php:509 views/assets/js/pm.js:20
+msgid "Add a new task"
+msgstr "Añadir una nueva tarea"
+
+#: languages/wedevs-project-manager.php:90 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Add Task"
+msgstr "Añadir una tarea"
+
+#: languages/wedevs-project-manager.php:103 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "More Tasks"
+msgstr "Más tareas"
+
+#: languages/wedevs-project-manager.php:521 views/assets/js/pm.js:36
+msgid "No tasks found."
+msgstr "No se han encontrado tareas."
+
+#: languages/wedevs-project-manager.php:110 views/assets/js/pm.js:28
+msgid "To assign people to tasks."
+msgstr "Asignar personas a las tareas."
+
+#: languages/wedevs-project-manager.php:109 views/assets/js/pm.js:28
+msgid "To mark milestone points."
+msgstr "Marcar puntos del hito."
+
+#: languages/wedevs-project-manager.php:108 views/assets/js/pm.js:28
+msgid "To partition a project internals."
+msgstr "Dividir las partes de un proyecto."
+
+#: languages/wedevs-project-manager.php:107 views/assets/js/pm.js:28
+msgid "When to use Task Lists?"
+msgstr "¿Cuándo usar las listas de tareas?"
+
+#: languages/wedevs-project-manager.php:106 views/assets/js/pm.js:28
+msgid "You can list all your Tasks in a single discussion using a Task list. Use these lists to divide a project into several sectors, assign co-workers and check progress."
+msgstr "Puedes enumerar todas tus tareas en una sola discusión usando una lista de tareas. Usa estas listas para dividir un proyecto en varios sectores, asignar trabajadores y verificar el progreso."
+
+#: languages/wedevs-project-manager.php:81 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Users"
+msgstr "Usuarios"
+
+#: languages/wedevs-project-manager.php:80 views/assets/js/pm.js:28
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+#: languages/wedevs-project-manager.php:48 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28
+msgid "Activity"
+msgstr "Actividad"
+
+#: languages/wedevs-project-manager.php:419 views/assets/js/pm.js:36
+msgid "left -"
+msgstr "restante -"
+
+#: languages/wedevs-project-manager.php:418 views/assets/js/pm.js:36
+msgid "Upcoming Milestones"
+msgstr "Próximos hitos"
+
+#: languages/wedevs-project-manager.php:416 views/assets/js/pm.js:20
+msgid "Update Milestone"
+msgstr "Actualizar hito"
+
+#: languages/wedevs-project-manager.php:415 views/assets/js/pm.js:20
+msgid "Milestone name"
+msgstr "Nombre del hito"
+
+#: languages/wedevs-project-manager.php:37 src/Task/Helper/Task.php:103
+#: views/emails/html/new-task.php:68 views/emails/html/update-task.php:68
+#: views/assets/js/library.js:20 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36 views/assets/js/pm.js:61
+msgid "Due Date"
+msgstr "Fecha de vencimiento"
+
+#: languages/wedevs-project-manager.php:414 views/assets/js/pm.js:36
+msgid "To coordinate projects and assigned persons timely."
+msgstr "Coordinar proyectos y personas asignadas oportunamente."
+
+#: languages/wedevs-project-manager.php:413 views/assets/js/pm.js:36
+msgid "To divide a project into several development-time phases."
+msgstr "Dividir un proyecto en varias fases de desarrollo."
+
+#: languages/wedevs-project-manager.php:412 views/assets/js/pm.js:36
+msgid "To set a target date for the project overall."
+msgstr "Para establecer una fecha objetivo para el proyecto en general."
+
+#: languages/wedevs-project-manager.php:411 views/assets/js/pm.js:36
+msgid "When to use Milestones?"
+msgstr "¿Cuándo usar hitos?"
+
+#: languages/wedevs-project-manager.php:410 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Add Milestone"
+msgstr "Añadir hito"
+
+#: languages/wedevs-project-manager.php:409 views/assets/js/pm.js:36
+msgid "Create a lifecycle of your projects using milestones. Time mark the different stages of your project with multiple milestones and also it will help the assigned people to aim for a date to complete the project according to those steps."
+msgstr ""
+"Define el ciclo de vida de tus planes o proyectos usando etapas (milestones). Definir puntos de control por etapas, ayudará a que los colaboradores asignados busquen completar el Plan/Proyecto en las fechas definidas. Por ejemplo, las acciones correctivas tendrán etapas «predefinidas» 1. Acciones de contención, 2. Análisis de la no conformidad, 3. Ejecución de acciones, 4. Verificación de la efectividad de las acciones. Otros planes pueden tener otras etapas o número de etapas.\n"
+" \n"
+"\n"
+"Crea un ciclo de vida de tus proyectos usando los hitos. El tiempo marca las diferentes etapas de tu proyecto con varios hitos y también ayudará a las personas asignadas a apuntar a una fecha para completar el proyecto de acuerdo con esos pasos."
+
+#: languages/wedevs-project-manager.php:408 views/assets/js/pm.js:36
+msgid "Late Milestones"
+msgstr "Hitos tardíos"
+
+#: languages/wedevs-project-manager.php:407 views/assets/js/pm.js:36
+msgid "Completed on:"
+msgstr "Completado en:"
+
+#: languages/wedevs-project-manager.php:406 views/assets/js/pm.js:36
+msgid "Completed Milestones"
+msgstr "Hitos completados"
+
+#: languages/wedevs-project-manager.php:405 views/assets/js/pm.js:20
+msgid "Mark as complete"
+msgstr "Marcar como completado"
+
+#: languages/wedevs-project-manager.php:404 views/assets/js/pm.js:20
+msgid "Mark as incomplete"
+msgstr "Marcar como incompleto"
+
+#: languages/wedevs-project-manager.php:403 views/assets/js/pm.js:20
+msgid "Delete milestone"
+msgstr "Eliminar hito"
+
+#: languages/wedevs-project-manager.php:402 views/assets/js/pm.js:20
+msgid "Edit Milestone"
+msgstr "Editar hito"
+
+#: languages/wedevs-project-manager.php:400 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: languages/wedevs-project-manager.php:401 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "List View"
+msgstr "Vista de la lista"
+
+#: languages/wedevs-project-manager.php:76 src/Task/Helper/Task.php:100
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Tasks"
+msgstr "Tareas"
+
+#: languages/wedevs-project-manager.php:399 texts/success_messages.php:84
+#: views/assets/js/pm.js:36
+msgid "No projects found."
+msgstr "No se han encontrado proyectos."
+
+#: languages/wedevs-project-manager.php:72 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28
+msgid "Create User"
+msgstr "Crear usuario"
+
+#: languages/wedevs-project-manager.php:56 views/assets/js/pm.js:28
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: languages/wedevs-project-manager.php:55 views/assets/js/pm.js:28
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: languages/wedevs-project-manager.php:54 views/assets/js/pm.js:28
+msgid "First Name"
+msgstr "Nombre"
+
+#: languages/wedevs-project-manager.php:53 views/assets/js/pm.js:28
+msgid "Username"
+msgstr "Usuario"
+
+#: languages/wedevs-project-manager.php:398 views/assets/js/pm.js:36
+msgid "New Project"
+msgstr "Nuevo proyecto"
+
+#: languages/wedevs-project-manager.php:204 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "All"
+msgstr "Todos"
+
+#: languages/wedevs-project-manager.php:396 views/assets/js/pm.js:36
+msgid "Active"
+msgstr "Activos"
+
+#: languages/wedevs-project-manager.php:392 views/assets/js/pm.js:20
+msgid "Update Project"
+msgstr "Actualizar proyecto"
+
+#: languages/wedevs-project-manager.php:391 views/assets/js/pm.js:20
+msgid "Add New Project"
+msgstr "Añadir nuevo proyecto"
+
+#: languages/wedevs-project-manager.php:389 views/assets/js/pm.js:20
+msgid "Some details about the project (optional)"
+msgstr "Algunos detalles sobre el proyecto (opcional)"
+
+#: languages/wedevs-project-manager.php:388 views/assets/js/pm.js:20
+msgid "Name of the project"
+msgstr "Nombre del proyecto"
+
+#: languages/wedevs-project-manager.php:58 views/assets/js/pm.js:28
+msgid "Notify Co-Workers"
+msgstr "Avisar a los trabadores"
+
+#: languages/wedevs-project-manager.php:57 views/assets/js/pm.js:28
+msgid "- Project Category -"
+msgstr "- Categoría del proyecto -"
+
+#: languages/wedevs-project-manager.php:387 views/assets/js/pm.js:20
+msgid "Start a new project"
+msgstr "Iniciar un nuevo proyecto"
+
+#: languages/wedevs-project-manager.php:52 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28
+msgid "Create a new user"
+msgstr "Crear un nuevo usuario"
+
+#: languages/wedevs-project-manager.php:51 views/assets/js/pm.js:28
+msgid "No users found."
+msgstr "No se han encontrado usuarios."
+
+#: languages/wedevs-project-manager.php:86 views/assets/js/pm.js:28
+msgid "admin"
+msgstr "administrador"
+
+#: languages/wedevs-project-manager.php:85 views/emails/html/new-project.php:79
+#: views/assets/js/pm.js:28
+msgid "by"
+msgstr "por"
+
+#: languages/wedevs-project-manager.php:84 views/assets/js/pm.js:28
+msgid "Attached to"
+msgstr "Adjuntado a"
+
+#: languages/wedevs-project-manager.php:381 views/assets/js/pm.js:20
+msgid "Update Message"
+msgstr "Actualizar mensaje"
+
+#: languages/wedevs-project-manager.php:380 views/assets/js/pm.js:20
+msgid "Add Message"
+msgstr "Añadir mensaje"
+
+#: languages/wedevs-project-manager.php:379 views/assets/js/pm.js:20
+msgid "Enter message title"
+msgstr "Escribe el título del mensaje"
+
+#: languages/wedevs-project-manager.php:89 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "- Milestone -"
+msgstr "- Hito -"
+
+#: languages/wedevs-project-manager.php:377 views/assets/js/pm.js:20
+msgid "Make it private"
+msgstr "Hacerlo privado"
+
+#: languages/wedevs-project-manager.php:376 views/assets/js/pm.js:20
+msgid "Delete this message"
+msgstr "Eliminar este mensaje"
+
+#: languages/wedevs-project-manager.php:374 views/assets/js/pm.js:36
+msgid "Discussion List"
+msgstr "Lista de discusión"
+
+#: languages/wedevs-project-manager.php:373 views/assets/js/pm.js:36
+msgid "To create an open discussion visible to all."
+msgstr "Para crear una discusión abierta visible para todos."
+
+#: languages/wedevs-project-manager.php:372 views/assets/js/pm.js:36
+msgid "To discuss in a group."
+msgstr "Para discutir en grupo."
+
+#: languages/wedevs-project-manager.php:371 views/assets/js/pm.js:36
+msgid "To exchange files privately."
+msgstr "Para intercambiar archivos de forma privada."
+
+#: languages/wedevs-project-manager.php:370 views/assets/js/pm.js:36
+msgid "To discuss a work matter privately."
+msgstr "Para discutir un asunto de trabajo en privado."
+
+#: languages/wedevs-project-manager.php:369 views/assets/js/pm.js:36
+msgid "When to use Discussions?"
+msgstr "¿Cuándo usar las discusiones?"
+
+#: languages/wedevs-project-manager.php:368 views/assets/js/pm.js:36
+msgid "Create a new message"
+msgstr "Crear un nuevo mensaje"
+
+#: languages/wedevs-project-manager.php:367 views/assets/js/pm.js:36
+msgid "Add New Discussion"
+msgstr "Añadir nueva discusión"
+
+#: languages/wedevs-project-manager.php:366 views/assets/js/pm.js:36
+msgid "Use our built in discussion panel to create an open discussion, a group discussion or a private conversation. Note that the Admin can always moderate these discussions."
+msgstr "Usa nuestro panel de discusiones integrado para crear una discusión abierta, una discusión grupal o una conversación privada. Ten en cuenta que el administrador siempre puede moderar estas discusiones."
+
+#: languages/wedevs-project-manager.php:365
+#: languages/wedevs-project-manager.php:519 views/assets/js/pm.js:20
+msgid "Add List"
+msgstr "Añadir Lista"
+
+#: languages/wedevs-project-manager.php:83 views/assets/js/pm.js:28
+msgid "No activities found."
+msgstr "No se han encontrado actividades."
+
+#: languages/wedevs-project-manager.php:82 views/assets/js/pm.js:28
+msgid "Load More ..."
+msgstr "Cargar más..."
+
+#: languages/wedevs-project-manager.php:78 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Files"
+msgstr "Archivos"
+
+#: languages/wedevs-project-manager.php:79 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Milestones"
+msgstr "Hitos"
+
+#: languages/wedevs-project-manager.php:75 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Task Lists"
+msgstr "Listas de tareas"
+
+#: languages/wedevs-project-manager.php:74 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Discussions"
+msgstr "Discusiones"
+
+#: languages/wedevs-project-manager.php:212 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Activities"
+msgstr "Actividades"
+
+#: languages/wedevs-project-manager.php:211 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Overview"
+msgstr "Resumen"
+
+#: languages/wedevs-project-manager.php:203 views/assets/js/pm.js:20
+msgid "Project Actions"
+msgstr "Acciones del proyecto"
+
+#: languages/wedevs-project-manager.php:62 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Restore"
+msgstr "Restaurar"
+
+#: languages/wedevs-project-manager.php:61 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Complete"
+msgstr "Completado"
+
+#: languages/wedevs-project-manager.php:501 views/assets/js/pm.js:36
+msgid "Incomplete"
+msgstr "Incompleto"
+
+#: languages/wedevs-project-manager.php:24 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36 views/assets/js/pm.js:61
+msgid "Completed"
+msgstr "Completado"
+
+#: languages/wedevs-project-manager.php:59 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Close"
+msgstr "Cerrar"
+
+#: languages/wedevs-project-manager.php:39 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Clear"
+msgstr "Vaciar"
+
+#: languages/wedevs-project-manager.php:193 views/assets/js/pm.js:36
+msgid "Select Color"
+msgstr "Seleccionar color"
+
+#: languages/wedevs-project-manager.php:7 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+#: views/assets/js/pm.js:61
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: languages/wedevs-project-manager.php:190 views/assets/js/pm.js:36
+msgid "Quick Edit"
+msgstr "Edición rápida"
+
+#: languages/wedevs-project-manager.php:13 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Edit"
+msgstr "Editar"
+
+#: languages/wedevs-project-manager.php:14 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Delete"
+msgstr "Eliminar"
+
+#: languages/wedevs-project-manager.php:188 views/assets/js/pm.js:36
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: languages/wedevs-project-manager.php:187 views/assets/js/pm.js:36
+msgid "Select bulk action"
+msgstr "Seleccionar acción en lote"
+
+#: languages/wedevs-project-manager.php:46
+#: views/emails/html/complete-task.php:95 views/emails/html/update-task.php:88
+#: views/assets/js/library.js:20 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Description"
+msgstr "Descripción"
+
+#: languages/wedevs-project-manager.php:186 views/assets/js/pm.js:36
+msgid "Name"
+msgstr "Nombre"
+
+#: languages/wedevs-project-manager.php:191 views/assets/js/pm.js:20
+msgid "Update Category"
+msgstr "Actualizar la categoría"
+
+#: languages/wedevs-project-manager.php:185 views/assets/js/pm.js:20
+#: views/assets/js/pm.js:36
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: languages/wedevs-project-manager.php:378 views/assets/js/pm.js:1
+msgid "Are you sure to delete this comment?"
+msgstr "¿Seguro que quieres eliminar este comentario?"
+
+#: languages/wedevs-project-manager.php:49 views/assets/js/pm.js:1
+msgid "Are you sure you want to delete this milestones?"
+msgstr "¿Seguro que quieres eliminar este hito?"
+
+#: languages/wedevs-project-manager.php:28 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "on"
+msgstr "en"
+
+#: languages/wedevs-project-manager.php:375 views/assets/js/pm.js:36
+msgid "By"
+msgstr "Por"
+
+#: languages/wedevs-project-manager.php:200 views/assets/js/pm.js:36
+msgid "from your computer."
+msgstr "desde tu ordenador."
+
+#: languages/wedevs-project-manager.php:201 views/assets/js/pm.js:20
+msgid "select files"
+msgstr "seleccionar archivos"
+
+#: languages/wedevs-project-manager.php:199 views/assets/js/pm.js:36
+msgid "To attach"
+msgstr "Para adjuntar"
+
+#: languages/wedevs-project-manager.php:198 views/assets/js/pm.js:36
+msgid "Delete File"
+msgstr "Borrar archivos"
+
+#: languages/wedevs-project-manager.php:6 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+#: languages/wedevs-project-manager.php:5 views/assets/js/library.js:20
+#: views/assets/js/pm.js:20
+msgid "Notify users"
+msgstr "Avisar a los usuarios"
+
+#: languages/wedevs-project-manager.php:77 views/assets/js/pm.js:28
+#: views/assets/js/pm.js:36
+msgid "Comments"
+msgstr "Comentarios"
+
+#: languages/wedevs-project-manager.php:195 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1 views/assets/js/pm.js:20
+msgid "Update Comment"
+msgstr "Actualizar el comentario"
+
+#: languages/wedevs-project-manager.php:364 views/assets/js/pm.js:20
+msgid "Add New Comment"
+msgstr "Añadir un nuevo comentario"
+
+#: languages/wedevs-project-manager.php:527 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Update Description"
+msgstr "Actualizar la descripción"
+
+#: languages/wedevs-project-manager.php:215 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Write a comment..."
+msgstr "Escribir un comentario..."
+
+#: languages/wedevs-project-manager.php:654 views/assets/js/library.js:1
+#: views/assets/js/pm.js:1
+msgid "Are you sure to delete this project?"
+msgstr "¿Estás seguro de quieres eliminar este proyecto?"
+
+#: languages/wedevs-project-manager.php:488 views/assets/js/pm.js:20
+msgid "Are you sure!"
+msgstr "¿Estás seguro?"
+
+#: db/seeds/RoleTableSeeder.php:35
+msgid "Co-worker is person who works under a project."
+msgstr "Un trabajador es una persona que trabaja en un proyecto."
+
+#: db/seeds/RoleTableSeeder.php:33
+msgid "Co-Worker"
+msgstr "Trabajador"
+
+#: db/seeds/RoleTableSeeder.php:25
+msgid "Manager is a person who manages the project."
+msgstr "El gerente es la persona que dirige el proyecto."
+
+#: db/seeds/RoleTableSeeder.php:23
+msgid "Manager"
+msgstr "Gerente"
+
+#: core/Pro/Menu.php:46 languages/wedevs-project-manager.php:275
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Progress"
+msgstr "Progreso"
+
+#: languages/wedevs-project-manager.php:273 views/assets/js/pm.js:20
+msgid "Report"
+msgstr "Informe"
+
+#: core/Pro/Menu.php:44 languages/wedevs-project-manager.php:126
+#: views/assets/js/pm.js:20 views/assets/js/pm.js:36
+msgid "Calendar"
+msgstr "Calendario"
+
+#: core/WP/Menu.php:28 languages/wedevs-project-manager.php:184
+#: views/assets/js/pm.js:36
+msgid "Categories"
+msgstr "Categorías"
+
+#: core/WP/Menu.php:21 languages/wedevs-project-manager.php:50
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36
+msgid "Projects"
+msgstr "Proyectos"
+
+#: core/WP/Menu.php:19 languages/wedevs-project-manager.php:386
+#: libs/functions.php:1006 views/assets/js/pm.js:36
+msgid "Project Manager"
+msgstr "Gestor de proyectos"
+
+#: core/WP/Frontend.php:278
+msgid "Documentation"
+msgstr "Documentación"
+
+#: core/WP/Frontend.php:277 core/WP/Menu.php:42
+#: languages/wedevs-project-manager.php:494 views/assets/js/pm.js:36
+msgid "Settings"
+msgstr "Ajustes"
+
+#: core/WP/Frontend.php:274
+msgid "Get Pro"
+msgstr "Obtén la versión Pro"
+
+#: core/Admin_Notice/Admin_Notice.php:181
+msgid "Read Docs"
+msgstr "Leer la documentación"
+
+#: core/Admin_Notice/Admin_Notice.php:172
+msgid "<p>To migrate version 2.0, Please read mmigration docs </p>"
+msgstr "<p>Para migrar a la versión 2.0, por favor, lee la documentación de migración </p>"
+
+#: core/Admin_Notice/Admin_Notice.php:171
+msgid "<h2>WP Project Manager Pro required version 2.0 or above.</span></h2>"
+msgstr "<h2>WP Project Manager Pro requiere la versión 2.0 o superior.</span></h2>"
+
+#: core/WP/Frontend.php:228
+msgid "Every %d Minutes PM schedule"
+msgstr "Programado cada %d minutos PM"
+
+#: core/WP/Enqueue_Scripts.php:73
+msgid "Allowed Files"
+msgstr "Archivos permitidos"
+
+#: core/Upgrades/Upgrade.php:166
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Se recomienda encarecidamente que, antes de continuar, hagas una copia de seguridad de tu base de datos. ¿Seguro que quieres ejecutar el actualizador ahora?"
+
+#: core/Upgrades/Upgrade.php:158
+msgid "Read More"
+msgstr "Leer más"
+
+#: core/Upgrades/Upgrade.php:157
+msgid "Run the Update"
+msgstr "Ejecutar la actualización"
+
+#: core/Permissions/Project_Create_Capability.php:15
+msgid "You have no permission to create project."
+msgstr "No tienes permisos para crear un proyecto."
+
+#: core/Permissions/Create_File.php:18
+msgid "You have no permission to create message."
+msgstr "No tienes permisos para crear un mensaje."
+
+#: core/Permissions/Complete_Task.php:36
+msgid "You have no permission to change task status."
+msgstr "No tienes permisos para cambiar el estado de una tarea."
+
+#: core/Permissions/Access_Project.php:28 core/Permissions/Admin.php:15
+#: core/Permissions/Create_Discuss.php:19
+#: core/Permissions/Create_Milestone.php:18 core/Permissions/Create_Task.php:18
+#: core/Permissions/Create_Task_List.php:19 core/Permissions/Delete_Task.php:27
+#: core/Permissions/Edit_Comment.php:31 core/Permissions/Edit_Discuss.php:30
+#: core/Permissions/Edit_File.php:29 core/Permissions/Edit_Milestone.php:30
+#: core/Permissions/Edit_Task.php:32 core/Permissions/Edit_Task_List.php:30
+#: core/Permissions/Manager.php:15
+#: core/Permissions/Project_Manage_Capability.php:18
+#: core/Permissions/Project_Manage_Capability.php:29
+#: core/Permissions/Project_Settings_Page_Access.php:15
+#: core/Permissions/Project_Settings_Page_Access.php:26
+msgid "You have no permission."
+msgstr "No tienes permisos."
+
+#: core/Notifications/Emails/Update_Task_Notification.php:46
+msgid "[%s][%s] Update Task Assigned: %s"
+msgstr "[%s][%s] Actualizar tarea asignada: %s"
+
+#: core/Notifications/Emails/Update_Project_Notification.php:26
+msgid "[%s] Updated Project: %s"
+msgstr "[%s] Proyecto actualizado: %s"
+
+#: core/Notifications/Emails/Update_Comment_Notification.php:51
+msgid "[%s][%s] Update Comment on: %s"
+msgstr "[%s] [%s] Comentario actualizado el: %s"
+
+#: core/Notifications/Emails/New_Task_Notification.php:46
+msgid "[%s][%s] New Task Assigned: %s"
+msgstr "[%s][%s] Nueva tarea asignada: %s"
+
+#: core/Notifications/Emails/New_Message_Notification.php:58
+msgid "[%s][%s] New Message: %s"
+msgstr "[%s] [%s] Nuevo mensaje: %s"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:82
+msgid "[%s][%s] New Comment on: %s"
+msgstr "[%s][%s] Nuevo comentario el: %s"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:70
+msgid "File"
+msgstr "Archivo"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:65
+#: core/Notifications/Emails/Update_Comment_Notification.php:60
+#: languages/wedevs-project-manager.php:66 src/Pusher/Libs/action.php:92
+#: src/Pusher/Libs/action.php:97 src/Pusher/Libs/action.php:165
+#: src/Pusher/Libs/action.php:168 views/emails/html/complete-task.php:56
+#: views/emails/html/new-task.php:48 views/emails/html/update-task.php:48
+#: views/assets/js/pm.js:28 views/assets/js/pm.js:36 views/assets/js/pm.js:61
+msgid "Task"
+msgstr "Tarea"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:60
+#: core/Notifications/Emails/Update_Comment_Notification.php:57
+#: languages/wedevs-project-manager.php:220 src/Task/Helper/Task.php:101
+#: views/assets/js/pm.js:36
+msgid "Task List"
+msgstr "Lista de tareas"
+
+#: core/Notifications/Emails/New_Comment_Notification.php:55
+#: core/Notifications/Emails/Update_Comment_Notification.php:54
+#: src/Pusher/Libs/action.php:476
+msgid "Message"
+msgstr "Mensaje"
+
+#: core/Notifications/Emails/Complete_Task_Notification.php:48
+msgid "[%s] %s Task mark as %s in %s"
+msgstr "[%s] %s Tarea marcada como %s en %s"
